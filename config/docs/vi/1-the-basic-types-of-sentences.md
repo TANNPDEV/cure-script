@@ -2,7 +2,7 @@
 
 [**Bài 1: Tiếng Nhật dễ dàng! Những gì trường học không bao giờ dạy. Câu tiếng Nhật cốt lõi - tiếng Nhật hữu cơ**](https://www.youtube.com/watch?v=pSvH9vH60Ig&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&ab_channel=OrganicJapanesewithCureDolly)
 
-Điều cơ bản nhất về tiếng Nhật là câu cốt lõi của tiếng Nhật. Mọi câu tiếng Nhật về cơ bản đều có cùng một cốt lõi. Nó trông như thế nào? Nó trông như thế này.
+Điều cơ bản nhất về tiếng nhật là câu cốt lõi của tiếng Nhật. Mọi câu tiếng Nhật về cơ bản đều có cùng một cốt lõi. Nó trông như thế nào? Nó trông như thế này.
 
 Chúng ta sẽ hình dung nó như một đoàn tàu. Mỗi câu tiếng Nhật đều có hai thành phần này: **toa chính, A** và **đầu máy, B**. **Đầu máy là thứ làm cho câu chuyển động, làm cho nó hoạt động.** **Toa chính phải ở đó vì nếu không có toa chính thì đầu máy không có gì để kéo**. Hai yếu tố đó là cốt lõi của mọi câu tiếng Nhật.
 
