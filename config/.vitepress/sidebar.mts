@@ -886,6 +886,145 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
         }
       ]
     }
+  ],
+  "/vi/": [
+    {
+      "text": "Giới thiệu",
+      "collapsed": false,
+      "items": [
+        { "text": "Giới thiệu", "link": "/vi/about" },
+        { "text": "Bản gốc bởi nunko/dinuz", "link": "/vi/original" }
+      ]
+    },
+    {
+      "text": "Cấu trúc Câu Cơ bản và Ngữ pháp Cốt lõi",
+      "collapsed": false,
+      "items": [
+        { "text": "1. Các loại câu cơ bản", "link": "/vi/1-the-basic-types-of-sentences" },
+        { "text": "2. Cỗ xe tàng hình và trợ từ を", "link": "/vi/2-the-invisible-carriage-and-the-を-particle" },
+        { "text": "3. Trợ từ は", "link": "/vi/3-the-は-particle" },
+        { "text": "4. Các thì của động từ tiếng Nhật", "link": "/vi/4-japanese-verb-tenses" },
+        { "text": "5. Các nhóm động từ và thể て", "link": "/vi/5-verb-groups-and-the-て-form" },
+        { "text": "6. Tính từ", "link": "/vi/6-adjectives" },
+        { "text": "7. Thể phủ định và tính từ ở thì quá khứ", "link": "/vi/7-negative-forms-and-adjectives-in-past-tense" },
+        { "text": "7.5. Chia động từ", "link": "/vi/7-5-conjugation" },
+        { "text": "8. Trợ từ に và へ", "link": "/vi/8-the-に-and-へ-particles" },
+        { "text": "8b. Giải thích về các trợ từ", "link": "/vi/8b-particles-explained" },
+        { "text": "9. Chủ ngữ của câu tiếng Nhật & Thể hiện mong muốn: ほしい, たい, たがる", "link": "/vi/9-the-subject-of-the-japanese-sentence-expressing-desire-ほしい-たい-たがる" },
+        { "text": "10. Động từ bổ trợ & động từ bổ trợ khả năng", "link": "/vi/10-helper-verbs-the-potential-helper-verb" },
+        { "text": "11. Câu ghép, くれる, あげる và các cách dùng khác của thể て", "link": "/vi/11-compound-sentences-くれる-あげる-and-more-uses-of-the-て-form" },
+        { "text": "12. Trợ từ trích dẫn と, động từ & danh từ ghép", "link": "/vi/12-quotation-particle-と-compound-verbs-nouns" },
+        { "text": "13. Chia động từ bị động / Động từ bổ trợ tiếp nhận", "link": "/vi/13-passive-conjugation-receptive-helper-verb" },
+        { "text": "14. Phó từ và trợ từ も", "link": "/vi/14-adverbs-and-the-も-particle" },
+        { "text": "15. Tự động từ & tha động từ", "link": "/vi/15-transitive-intransitive-verbs" },
+        { "text": "16. てみる, trợ từ や, trợ từ から, and loại trừ", "link": "/vi/16-てみる-や-particle-から-particle-exclusive-and" },
+        { "text": "17. Tiếng Nhật lịch sự và thể ý chí", "link": "/vi/17-polite-japanese-and-the-volitional" },
+        { "text": "18. って = は?? Những bí ẩn được giải đáp! -おうとする, とする, として, という, っていう", "link": "/vi/18-って-は-mysteries-explained-おうとする-とする-として-という-っていう" },
+        { "text": "19. Thể sai khiến + bị động sai khiến", "link": "/vi/19-causative-causative-receptive" },
+        { "text": "20. Chỉ định từ: それ・その・そんな・そう v.v.", "link": "/vi/20-directionals-それ-その-そんな-そう-etc" }
+      ]
+    },
+    {
+      "text": "Ngữ pháp Nâng cao và Các cách diễn đạt",
+      "collapsed": false,
+      "items": [
+        { "text": "21. てある/ている & ておく", "link": "/vi/21-てある-ている-ておく" },
+        { "text": "22. ては & ても", "link": "/vi/22-ては-ても" },
+        { "text": "23. だって + だから & それから", "link": "/vi/23-だって-だから-それから" },
+        { "text": "24. Nghe đồn & phỏng đoán - そう・そうだ・そうです", "link": "/vi/24-hearsay-guesses-そう-そうだ-そうです" },
+        { "text": "25. らしい vs そうだ / そうです + っぽい (ppoi)", "link": "/vi/25-らしい-vs-そうだ-そうです-っぽい-ppoi" },
+        { "text": "26. Ẩn dụ: ようだ・のように・のような ・みたい", "link": "/vi/26-similes-ようだ-のように-のような-みたい" },
+        { "text": "27. ばかり", "link": "/vi/27-ばかり" },
+        { "text": "28. ように - một chìa khóa cho mọi cách dùng chính", "link": "/vi/28-ように-one-key-to-all-the-main-uses" },
+        { "text": "29. ことにする & ことになる", "link": "/vi/29-ことにする-ことになる" },
+        { "text": "30. Câu điều kiện trong tiếng Nhật: と", "link": "/vi/30-japanese-conditionals-と" },
+        { "text": "31. Câu điều kiện ば / れば", "link": "/vi/31-the-ば-れば-conditional" },
+        { "text": "32. Câu điều kiện たら, なら", "link": "/vi/32-the-たら-なら-conditionals" },
+        { "text": "33. Các từ giới hạn: だけ, しか, ばかり, のみ", "link": "/vi/33-limiting-terms-だけ-しか-ばかり-のみ" },
+        { "text": "34. Hiểu mọi câu", "link": "/vi/34-understand-any-sentence" },
+        { "text": "35. より, のほう, 一方", "link": "/vi/35-より-のほう-一方" },
+        { "text": "36. 所 - khái niệm về nơi chốn", "link": "/vi/36-所-the-concept-of-place" },
+        { "text": "37. Bí mật cấu trúc mới + tính từ な vs の, なる & たる", "link": "/vi/37-new-structure-secrets-な-vs-の-なる-たる-adjectives" },
+        { "text": "38. Khi nó KHÔNG có nghĩa là CÓ: bí ẩn của じゃない, ではない", "link": "/vi/38-when-it-isn-t-means-it-is-じゃない-ではない" },
+        { "text": "39. Trợ từ か: Câu hỏi ẩn, かな, もんか, かどうか...", "link": "/vi/39-the-か-particle-buried-questions-かな-もんか-かどうか" },
+        { "text": "40. 3 cạm bẫy trong tiếng Nhật và cách phòng tránh", "link": "/vi/40-3-pitfalls-in-japanese-and-how-to-avoid-them" }
+      ]
+    },
+    {
+      "text": "Chiến lược Học Ngôn ngữ và Phân tích Câu",
+      "collapsed": false,
+      "items": [
+        { "text": "41. 5 sự thật chính về cấu trúc cơ bản của tiếng Nhật", "link": "/vi/41-5-key-facts-about-the-basic-structure-of-japanese" },
+        { "text": "42. Nhầm lẫn từ cơ bản | まま", "link": "/vi/42-basic-word-confusion-まま" },
+        { "text": "43. SỰ THAY ĐỔI MÔ HÌNH: Xóa bỏ sự nhầm lẫn", "link": "/vi/43-paradigm-shift-cut-through-the-confusion" },
+        { "text": "44. Cách dùng tiếng Nhật tự nhiên: ちゃう, ちゃった", "link": "/vi/44-how-to-use-natural-japanese-ちゃう-ちゃった" },
+        { "text": "45. Hướng dẫn Bước Đầu vào Kỹ thuật Tự Đắm mình", "link": "/vi/45-first-step-guide-into-self-immersion-technique" },
+        { "text": "46. Trật tự từ QUAN TRỌNG: 2 Quy tắc đơn giản để phá giải câu khó", "link": "/vi/46-word-order-matters-2-simple-rules-to-crack-tough-sentences" },
+        { "text": "47. Cách hiểu tiếng Nhật: Vũ khí bí mật của bạn để phân tích câu", "link": "/vi/47-how-to-understand-japanese-your-secret-weapon-for-breaking-down-sentences" },
+        { "text": "48. Xử lý sự mơ hồ trong tiếng Nhật", "link": "/vi/48-dealing-with-ambiguity-in-japanese" },
+        { "text": "49. Góc nhìn trong tiếng Nhật: Hết nhầm lẫn! -もらう・てもらう", "link": "/vi/49-japanese-point-of-view-deconfused-もらう-てもらう" },
+        { "text": "50. 2 Khía cạnh tiếng Nhật mà người nước ngoài không thể hiểu thấu: させてもらう, Bí mật cuối cùng của thể Khả năng", "link": "/vi/50-2-aspects-of-japanese-that-foreigners-can-t-fathom-させてもらう-last-secret-of-the-potential" },
+        { "text": "51. Cách đọc 怪談 / かいだん (truyện ma) tiếng Nhật", "link": "/vi/51-how-to-read-a-japanese-怪談-かいだん-ghost-story" },
+        { "text": "52. Phân tích chuyên sâu Câu tiếng Nhật trong Ngữ cảnh Bản xứ Thực tế", "link": "/vi/52-in-depth-japanese-sentence-analysis-in-real-native-context" },
+        { "text": "53. Thưởng thức Kinh dị tiếng Nhật bằng tiếng Nhật", "link": "/vi/53-enjoy-japanese-horror-in-japanese" },
+        { "text": "54. NHỮNG BẤT QUY TẮC & cách chúng hoạt động | 見る, 見られる, 見れる, 見える, 聞く, 聞ける, 聞こえる", "link": "/vi/54-irregularities-how-they-work-見る-見られる-見れる-見える-聞く-聞ける-聞こえる" },
+        { "text": "55. Bí mật của trợ từ で. Tại sao chúng ta nói みんなで行く? và 世界で一番?", "link": "/vi/55-secrets-of-the-で-particle-why-do-we-say-みんなで行く-and-世界で一番" },
+        { "text": "56. Sự linh hoạt: Những bí mật sâu hơn của trợ từ は và の", "link": "/vi/56-agility-deeper-secrets-of-は-and-の-particles" },
+        { "text": "57. 込む (Komu) và bí mật của những từ tiếng Nhật đa nghĩa", "link": "/vi/57-込む-komu-and-the-secret-of-multi-meaning-japanese-words" },
+        { "text": "58. Trợ từ kép trong tiếng Nhật. Cách chúng hoạt động", "link": "/vi/58-japanese-double-particles-how-they-work" },
+        { "text": "59. Tiếng Nhật không thể dịch là có thật! Cách để hiểu nó", "link": "/vi/59-untranslatable-japanese-exists-how-to-understand-it" },
+        { "text": "60. NỬA CÒN LẠI của Cấu trúc Tiếng Nhật - cấu trúc chủ đề/bình luận phi logic", "link": "/vi/60-the-other-half-of-japanese-structure-non-logical-topic-comment-structure" }
+      ]
+    },
+    {
+      "text": "Các Chủ đề Nâng cao và Ngữ cảnh Văn hóa",
+      "collapsed": false,
+      "items": [
+        { "text": "61. は và が: Những Bí mật Sâu hơn! Cấu trúc âm dương của tiếng Nhật", "link": "/vi/61-は-and-が-the-deeper-secrets-the-yin-yang-structure-of-japanese" },
+        { "text": "62. ておく vs てしまう, bí mật động từ bổ trợ", "link": "/vi/62-ておく-vs-てしまう-helper-verb-secrets" },
+        { "text": "63. Các đuôi câu HOANG DÃ trong tiếng Nhật đời thực: かい、だい,、ぜ、ぞ、さ、から、し、ちょうだい", "link": "/vi/63-wild-sentence-enders-in-real-life-japanese-かい-だい-ぜ-ぞ-さ-から-し-ちょうだい" },
+        { "text": "64. Mọi thứ trở nên Kỳ lạ! もの và こと - Bí mật nâng cao: ものだ, ことがある, こと như đuôi câu", "link": "/vi/64-things-get-strange-もの-and-こと-advanced-secrets-ものだ-ことがある-こと-as-sentence-ender" },
+        { "text": "65. Đi và Đến: Bí mật sâu hơn của 行く và 来る、て行く và て来る (te-iku, te-kuru)", "link": "/vi/65-coming-and-going-deeper-secrets-of-行く-and-来る-て行くand-て来る-te-iku-te-kuru" },
+        { "text": "66. Chủ ngữ BỊ ẨN trong tiếng Nhật - và cách để hiểu chúng", "link": "/vi/66-hidden-subjects-in-japanese-and-how-to-understand-them" },
+        { "text": "67. もう và まだ: mối quan hệ thời gian giúp hiểu rõ chúng", "link": "/vi/67-もう-and-まだ-the-time-relations-that-make-sense-of-them" },
+        { "text": "68. Logic tiềm ẩn của tiếng Nhật: わけ、そういうわけ、わけが分からない、わけない", "link": "/vi/68-japanese-underlying-logic-わけ-そういうわけ-わけが分からない-わけない" },
+        { "text": "69. Tiếng Nhật trong Đời thực! Xử lý tài liệu tiếng Nhật bản xứ. 怪談 4", "link": "/vi/69-japanese-in-the-wild-tackling-native-japanese-material-怪談-4" },
+        { "text": "70. かける / かかる: Giải thích về từ tiếng Nhật đa năng!", "link": "/vi/70-かける-かかる-all-purpose-japanese-explained" },
+        { "text": "71. Trợ từ đếm tiếng Nhật: 3 quy tắc đơn giản", "link": "/vi/71-japanese-counters-3-simple-rules" },
+        { "text": "72. Trợ từ Kết nối Vĩ đại (phép thuật của thân từ い)", "link": "/vi/72-the-great-connector-い-stem-magic" },
+        { "text": "73. Bí mật của 気: 気になる, 気にする, 気がする, 気に入る v.v.", "link": "/vi/73-secrets-of-気-気になる-気にする-気がする-気に入る-etc" },
+        { "text": "74. TÌNH YÊU và những bí ẩn khác của こと! あなたのことが好き, 私のことが嫌い, ということ, そういうこと, どういうこと, そんなこと", "link": "/vi/74-love-and-other-mysteries-of-こと-あなたのことが好き-私のことが嫌い-ということ-そういうこと-どういうこと-そんなこと" },
+        { "text": "75. Tiếng Nhật KHÔNG PHẢI là tiếng Anh: Sự khác biệt trong chiến lược diễn đạt | tiếng Anh lịch sự = tiếng Nhật thô lỗ", "link": "/vi/75-japanese-is-not-english-how-expression-strategies-differ-polite-英本語-rude-japanese" },
+        { "text": "76. Mở như thế nào cho đúng? | あく, あける, ひらく, ひらける, 開く, 開け", "link": "/vi/76-the-right-opening-あく-あける-ひらく-ひらける-開く-開け" },
+        { "text": "77. Cấu trúc Tiếng Nhật Thực tế vs Tae Kim: Đánh giá Cấu trúc Ngữ pháp Tiếng Nhật của Tae Kim", "link": "/vi/77-real-japanese-structure-vs-tae-kim-structural-review-of-tae-kim-s-japanese-grammar" },
+        { "text": "78. Phá vỡ Cốt lõi: Tae Kim vs Hệ từ (Copula) | Đánh giá Phê bình Dựa trên Cấu trúc Tiếng Nhật", "link": "/vi/78-breaking-the-core-tae-kim-vs-the-copula-japanese-structure-based-critical-review" },
+        { "text": "79. Bí mật sâu hơn của hệ từ (copula)", "link": "/vi/79-deeper-secret-of-the-copula" },
+        { "text": "80. Lược bỏ trợ từ & những cách lược bỏ thông thường", "link": "/vi/80-dropped-particles-casual-omissions" }
+      ]
+    },
+    {
+      "text": "Tinh chỉnh Tiếng Nhật của bạn",
+      "collapsed": false,
+      "items": [
+        { "text": "81. Nguyên tắc toàn cầu của mọi hình thức từ vựng tiếng Nhật.", "link": "/vi/81-global-principle-of-all-japanese-word-forms" },
+        { "text": "82. なんて、なんか、など: Làm rõ 3 từ thông dụng.", "link": "/vi/82-なんて-なんか-など-3-common-words-clarified" },
+        { "text": "83. Ba Cấp độ Mệnh lệnh trong tiếng Nhật: Mệnh lệnh thể て, なさい, mệnh lệnh な, thể mệnh lệnh.", "link": "/vi/83-three-levels-of-command-in-japanese-て-form-commands-なさい-な-commands-imperative-form" },
+        { "text": "84. である và Cấu trúc của tiếng Nhật. Những hệ từ cũ nói gì với chúng ta: である, であります、でござる、でございます", "link": "/vi/84-である-and-the-structure-of-japanese-what-older-copulas-tell-us-である-であります-でござる-でございます" },
+        { "text": "85. まい - trợ từ bổ trợ phủ định", "link": "/vi/85-まい-the-negative-helper" },
+        { "text": "86. 次第 (shidai)", "link": "/vi/86-次第-shidai" },
+        { "text": "87. Cấu trúc Tiếng Nhật BỊ ĐẢO NGƯỢC: cuộc đời kỳ lạ của しか", "link": "/vi/87-japanese-structure-inverted-strange-life-of-しか" },
+        { "text": "88. Xをしたい vs Xがしたい", "link": "/vi/88-xをしたい-vs-xがしたい" },
+        { "text": "89. Giải mã Tiếng Nhật: Chủ ngữ Phổ quát", "link": "/vi/89-de-mystifying-japanese-the-universal-subject" },
+        { "text": "90. Dấu câu tiếng Nhật: Cách nó hoạt động.", "link": "/vi/90-japanese-punctuation-how-it-works" },
+        { "text": "91. Giới hạn ngoài! 限る & 限り: Nhiều ý nghĩa của nó và cách chúng hoạt động 知っている限り、とは限らない v.v.", "link": "/vi/91-outer-limits-限る-限り-its-many-meanings-and-how-they-work-知っている限り-とは限らない-and-more" },
+        { "text": "92. Tiếng Anh có nuốt chửng Tiếng Nhật? Cuộc xâm lăng của từ mượn - có thực sự là mối đe dọa?", "link": "/vi/92-will-english-eat-japanese-loan-word-invasion-is-it-really-a-threat" },
+        { "text": "93. Chửi thề với くせに. Cách nó hoạt động.", "link": "/vi/93-cussin-em-out-with-くせに-how-it-works" },
+        { "text": "94. くらい VS ほど", "link": "/vi/94-くらい-vs-ほど" },
+        { "text": "95. Sử dụng Lịch sử Từ vựng một cách Thông minh どうも、やっぱり、やはり", "link": "/vi/95-using-word-history-the-smart-way-どうも-やっぱり-やはり" },
+        { "text": "96. 通り và せっかく: Con đường ẩn dụ và một từ không thể dịch.", "link": "/vi/96-通り-and-せっかく-a-metaphorical-road-and-an-untranslatable-word" },
+        { "text": "97. Những ý nghĩa của うち: Nhà, Bản thân, Ranh giới xã hội, Dấu mốc thời gian: いまのうち、そのうち", "link": "/vi/97-the-meanings-of-うち-home-self-social-boundary-time-marker-いまのうち-そのうち" }
+      ]
+    }
   ]
 };
 
