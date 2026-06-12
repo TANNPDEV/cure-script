@@ -1,65 +1,65 @@
-# **30. Japanese Conditionals: と**
+# **30. Câu điều kiện tiếng Nhật: と**
 
 [**Lesson 30: Japanese conditionals: とTO. What the textbooks don't tell you.**](https://www.youtube.com/watch?v=IkolA524WC0&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=32&pp=iAQB)
 
 こんにちは。
 
-Today we're going to start talking about Japanese conditionals. Conditionals are when you say something like <code>If...</code> or <code>When...</code> And in Japanese there are a number of different conditionals, and this can cause some confusion to learners. Which one do we use, and when, and why?
+Hôm nay chúng ta sẽ bắt đầu nói về các câu điều kiện trong tiếng Nhật. Câu điều kiện là khi bạn nói điều gì đó như <code>Nếu... (If...)</code> hoặc <code>Khi... (When...)</code> Và trong tiếng Nhật có một số câu điều kiện khác nhau, và điều này có thể gây ra một số nhầm lẫn cho người học. Chúng ta sử dụng cái nào, và khi nào, và tại sao?
 
-As usual, we tend to get a list of these things from the text-books with complicated instructions, and as usual it helps a great deal if we can understand the underlying logic. So, this lesson we're going to start with the conditional と. Now, we've already met this と.
+Như thường lệ, chúng ta có xu hướng nhận được một danh sách những thứ này từ sách giáo khoa với những hướng dẫn phức tạp, và như thường lệ, nó sẽ giúp ích rất nhiều nếu chúng ta có thể hiểu được logic cơ bản. Vì vậy, bài học này chúng ta sẽ bắt đầu với câu điều kiện と. Bây giờ, chúng ta đã gặp chữ と này rồi.
 
-It is the <code>exclusive and</code> particle. I'm not talking about Boolean logic here. I'm talking about the fact that Japanese has two words for <code>and</code> which are used to connect two nouns.
+Đó là trợ từ mang ý nghĩa <code>and loại trừ (exclusive and)</code>. Tôi không nói về logic Boolean ở đây. Tôi đang nói về việc tiếng Nhật có hai từ cho chữ <code>và (and)</code> được sử dụng để kết nối hai danh từ.
 
 ![](../media/image405.webp)
 
-One is や, and や is the same as English <code>and</code>. It means one thing <code>and</code> another <code>and</code> possibly other things too. If we say <code>hat and coat</code>, we may well have on shoes and skirt and pants and other things too, but we just say <code>hat and coat</code>.
+Một là や, và や giống như chữ <code>and</code> trong tiếng Anh. Nó có nghĩa là một cái này <code>và</code> một cái khác <code>và</code> có thể là những thứ khác nữa. Nếu chúng ta nói <code>mũ và áo khoác</code>, chúng ta cũng có thể đang đi giày và mặc váy và quần và những thứ khác nữa, nhưng chúng ta chỉ nói <code>mũ và áo khoác</code>.
 
-In Japanese, if we say <code>ペンや本</code> – <code>pen and book</code> – we're saying, just like English <code>and</code>, <code>a pen and a book and maybe some other things and maybe not</code>. But if we say <code>ペンと本</code>, that is exclusive.
+Trong tiếng Nhật, nếu chúng ta nói <code>ペンや本</code> – <code>bút và sách</code> – chúng ta đang nói, giống hệt như chữ <code>and</code> của tiếng Anh, <code>một cây bút và một quyển sách và có thể một số thứ khác và có thể không</code>. Nhưng nếu chúng ta nói <code>ペンと本</code>, thì đó là sự loại trừ.
 
-We're saying <code>pen and book and nothing else</code>. Now, this is important to understand because this is exactly the same と that we use as a conditional. The textbooks tend to introduce this と as if it were something different from the <code>and</code> と, but it's not – it's the same.
+Chúng ta đang nói <code>bút và sách và không có gì khác nữa</code>. Bây giờ, điều này rất quan trọng để hiểu bởi vì đây chính xác là cùng một chữ と mà chúng ta sử dụng như một câu điều kiện. Các sách giáo khoa có xu hướng giới thiệu chữ と này như thể nó là một cái gì đó khác với chữ と có nghĩa là <code>và (and)</code>, nhưng không phải vậy – nó là một.
 
-There is another と and that is the quotation particle which we've covered at some length in more than one lesson. That is separate from the <code>and</code> と. But the conditional と is not: it's the same と. And when we understand that, it becomes much easier to see what's going on with this particular conditional.
+Có một chữ と khác và đó là trợ từ trích dẫn mà chúng ta đã đề cập một thời gian dài trong nhiều hơn một bài học. Nó tách biệt với chữ と <code>và</code>. Nhưng と điều kiện thì không: nó là cùng một chữ と. Và khi chúng ta hiểu được điều đó, việc nhận thấy những gì đang diễn ra với câu điều kiện cụ thể này trở nên dễ dàng hơn nhiều.
 
-Now, one more thing we need to know is that this と is a particle, but it's not a logical particle. And it's not a non-logical particle either.
+Bây giờ, một điều nữa chúng ta cần biết là chữ と này là một trợ từ, nhưng nó không phải là một trợ từ logic. Và nó cũng không phải là một trợ từ phi logic.
 
 ![](../media/image878.webp)
 
-What do I mean by this? Well, a logical particle is a particle that marks the case of a noun. Now, you don't need to know what that means – it's not important to get that theoretical knowledge.
+Tôi có ý gì khi nói điều này? Chà, trợ từ logic là trợ từ đánh dấu cách (case) của một danh từ. Bây giờ, bạn không cần phải biết điều đó có nghĩa là gì – không quan trọng phải có được kiến thức lý thuyết đó.
 
-What it means is, in plain English, that it tells us what the noun is doing in the sentence in relation to other nouns and in relation to the verb. The が particle tells us that the noun is being or doing something; the を particle tells us that it is having something done to it; the に particle tells us that it is a target.
+Những gì nó có nghĩa, hiểu theo tiếng Anh đơn giản, là nó cho chúng ta biết danh từ đang làm gì trong câu trong mối quan hệ với các danh từ khác và trong mối quan hệ với động từ. Trợ từ が cho chúng ta biết danh từ đang tồn tại hoặc đang làm điều gì đó; trợ từ を cho chúng ta biết rằng nó đang bị một hành động nào đó tác động lên nó; trợ từ に cho chúng ta biết rằng nó là một mục tiêu.
 
 ![](../media/image256.webp)
 
-So what logical particles do is tell us who is doing what to whom and where and when. Non-logical particles は and も mark the topic, which is not a logical construction. They tell us what noun we're talking about but they don't tell us what part it plays in the sentence.
+Vì vậy những gì các trợ từ logic làm là cho chúng ta biết ai đang làm gì, với ai, ở đâu và khi nào. Các trợ từ phi logic は và も đánh dấu chủ đề, đây không phải là một cấu trúc logic. Chúng cho chúng ta biết chúng ta đang nói về danh từ nào nhưng chúng không cho chúng ta biết nó đóng vai trò gì trong câu.
 
-Now the point about logical particles is that they must attach to nouns. They can't do anything other than attach to a noun. And this is obvious, because that's their function – to tell us what role a noun plays in a sentence.
+Bây giờ, điểm đáng chú ý về các trợ từ logic là chúng phải gắn với danh từ. Chúng không thể làm gì khác ngoài việc gắn vào một danh từ. Và điều này là hiển nhiên, bởi vì đó là chức năng của chúng – để cho chúng ta biết một danh từ đóng vai trò gì trong một câu.
 
-と is not a logical particle and therefore, while it can attach to nouns, it can also attach to a logical clause and that's what allows it to be a conditional. All right. So now we know enough to go ahead.
+と không phải là một trợ từ logic và do đó, trong khi nó có thể gắn với danh từ, nó cũng có thể gắn với một mệnh đề logic và đó là điều cho phép nó trở thành một câu điều kiện. Được rồi. Vì vậy bây giờ chúng ta biết đủ để đi tiếp.
 
-If I say, <code>冬になると寒くなる</code> – <code>When it becomes winter (or, if it becomes winter) it gets cold.</code> So why is this connected with the <code>exclusive and</code> function of と? It is connected with it because what we are saying is that only one possibility exists, only one result can follow from what we're talking about.
+Nếu tôi nói, <code>冬になると寒くなる</code> – <code>Khi (trở thành) mùa đông (hoặc, nếu trở thành mùa đông) trời sẽ trở nên lạnh.</code> Vậy tại sao điều này lại liên quan đến chức năng <code>and loại trừ (exclusive and)</code> của と? Nó liên quan đến nó bởi vì những gì chúng ta đang nói là chỉ có một khả năng tồn tại, chỉ có một kết quả có thể theo sau những gì chúng ta đang nói.
 
-If winter comes, it will get cold – there's no other possibility. If rain falls, the ground will get wet – there's no other possibility. It can also be used in a hyperbolic fashion. We've talked about hyperboles before, haven't we?
+Nếu mùa đông đến, trời sẽ trở nên lạnh – không có khả năng nào khác. Nếu mưa rơi, mặt đất sẽ ướt – không có khả năng nào khác. Nó cũng có thể được sử dụng theo cách cường điệu. Chúng ta đã từng nói về phép cường điệu rồi, phải không?
 
-This is where you say something that exceeds the truth. And human language does this all the time. So, someone might say <code>それを食べると病気になる</code> – <code>If you eat that, you will get sick.</code>
+Đây là khi bạn nói điều gì đó vượt quá sự thật. Và ngôn ngữ của con người làm điều này mọi lúc. Vì vậy, ai đó có thể nói <code>それを食べると病気になる</code> – <code>Nếu bạn ăn cái đó, bạn sẽ bị ốm.</code>
 
 ![](../media/image762.webp)
 
-Now, this is not like winter coming and it getting cold or the rain falling and the ground getting wet. It's possible that you might eat it and not get sick, but this is a hyperbole. What you are trying to say to someone is <code>If you eat that, you will get sick</code>.
+Bây giờ, điều này không giống như mùa đông đến và trời trở lạnh hay mưa rơi và mặt đất ướt. Có khả năng bạn ăn nó và không bị ốm, nhưng đây là một phép cường điệu. Những gì bạn đang cố gắng nói với ai đó là <code>Nếu bạn ăn cái đó, bạn sẽ bị ốm</code>.
 
-<code>If you keep playing those games, you'll fail the exam.</code> Now again, it's possible that the person might keep playing the games and still get through the exam, but the hyperbole is <code>Do A and B will happen</code>. <code>Keep playing those games and you'll fail the exam.</code>
+<code>Nếu bạn tiếp tục chơi những trò chơi đó, bạn sẽ trượt kỳ thi.</code> Bây giờ một lần nữa, có khả năng người đó có thể tiếp tục chơi trò chơi và vẫn vượt qua kỳ thi, nhưng phép cường điệu là <code>Hãy làm A và B sẽ xảy ra</code>. <code>Hãy tiếp tục chơi những trò chơi đó và bạn sẽ trượt kỳ thi.</code>
 
-<code>Eat that and you'll get sick.</code> We are putting something forward as an inevitable result, an exclusive result, a result to which no other alternative exists.
+<code>Ăn cái đó và bạn sẽ bị ốm.</code> Chúng ta đang đưa ra một điều gì đó như một kết quả tất yếu, một kết quả độc quyền (exclusive), một kết quả mà không có sự thay thế nào khác tồn tại.
 
-Now, we can also use this と to mean that something is necessary. We can say <code>行かないとダメ</code> – <code>If I don't go, it will be bad.</code>
+Bây giờ, chúng ta cũng có thể sử dụng chữ と này để có nghĩa là một cái gì đó là cần thiết. Chúng ta có thể nói <code>行かないとダメ</code> – <code>Nếu tôi không đi, sẽ tệ lắm.</code>
 
 ::: info
-だめ is in katakana, usually it’s done for style, to spot words better in-text/avoid confusion or for emphasis of it, maybe to give it more emotional force or such.
+だめ được viết bằng katakana, điều này thường được thực hiện cho mục đích phong cách, để nhận ra các từ tốt hơn trong văn bản/tránh nhầm lẫn hoặc để nhấn mạnh nó, có thể để tạo cho nó lực lượng cảm xúc hơn hoặc đại loại như vậy.
 :::
 
-<code>勉強しないと行けない</code> – literally, <code>If I don't study, it can't go</code> but what that means is <code>If I don't study, it won't be good</code> (<code>...it won't do</code>, as we might say in English). And what it actually means is <code>I must study / I've got to study</code>.
+<code>勉強しないと行けない</code> – theo nghĩa đen, <code>Nếu tôi không học, nó không thể đi (it can't go)</code> nhưng điều đó có nghĩa là <code>Nếu tôi không học, sẽ không tốt</code> (<code>...it won't do</code>, như chúng ta có thể nói trong tiếng Anh). Và ý nghĩa thực sự của nó là <code>Tôi phải học / Tôi buộc phải học</code>.
 
-And very often you'll hear this just on its own. For example, <code>逃げないと!</code> And that just means, literally <code>We don't run and...</code> That's to say, <code>If we don't run...</code> And the implication here is that if we don't run, something bad will happen.
+Và rất thường bạn sẽ nghe thấy cái này đứng một mình. Ví dụ, <code>逃げないと!</code> Và điều đó theo nghĩa đen chỉ có nghĩa là <code>Chúng ta không chạy và...</code> Có nghĩa là, <code>Nếu chúng ta không chạy...</code> Và hàm ý ở đây là nếu chúng ta không chạy, điều tồi tệ sẽ xảy ra.
 
-So if in an anime somebody says, <code>逃げないと!</code> they're really just saying <code>Run! / We must run.</code> And in this sense, と, because it is so absolute, because it is so exclusive, is stronger and a little more colloquial than similar uses like ば/れば.
+Vì vậy, nếu trong một anime ai đó nói, <code>逃げないと!</code> họ thực sự chỉ đang nói <code>Chạy đi! / Chúng ta phải chạy.</code> Và theo nghĩa này, と, vì nó quá tuyệt đối, vì nó quá mang tính loại trừ, nên nó mạnh hơn và mang tính thông tục hơn một chút so với các cách sử dụng tương tự như ば/れば.
 
-And we'll talk about the ば/れば construction next time.
+Và chúng ta sẽ nói về cấu trúc ば/れば vào lần tới.

@@ -1,109 +1,109 @@
-# **24. Hearsay & guesses - そう・そうだ・そうです**
+# **24. Tin đồn & Phỏng đoán - そう・そうだ・そうです**
 
 [**Lesson 24: Hearsay and guesses! 〜sou da, 〜sou desu - how they REALLY work.**](https://www.youtube.com/watch?v=uSJukXcyccw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=26&ab_channel=OrganicJapanesewithCureDolly)
 
 こんにちは。
 
-Today we're going to talk about the helper noun <code>そう</code>, which can mean either likeness or hearsay, **either that something seems like something** or that we are **stating not our own view or opinion but something we've heard.** Differentiating the two can seem difficult, especially when the textbooks give you a list of connections to nouns and verbs and various different things. It's much less complicated when you understand the underlying principle, what's actually going on with <code>そう</code>. So you don't have to memorize a lot of different things. So, first of all, what is <code>そう</code>? **It's the same <code>そう</code> that we learned about recently that comes in <code>こう-そう-ああ-どう</code>.**<sup>[[20]](./20-directionals-それ-その-そんな-そう-etc.md)</sup>
+Hôm nay chúng ta sẽ nói về trợ danh từ (helper noun) <code>そう</code>, có thể có nghĩa là sự tương đồng (likeness) hoặc tin đồn/nghe nói (hearsay), **có thể là điều gì đó có vẻ giống như điều gì đó** hoặc là chúng ta đang **phát biểu không phải quan điểm hay ý kiến của riêng mình mà là điều gì đó chúng ta đã nghe được.** Việc phân biệt hai điều này có vẻ khó khăn, đặc biệt là khi sách giáo khoa cung cấp cho bạn một danh sách các liên kết với danh từ và động từ cùng nhiều thứ khác nhau. Nó sẽ bớt phức tạp hơn nhiều khi bạn hiểu nguyên tắc cơ bản, những gì thực sự đang diễn ra với <code>そう</code>. Do đó, bạn không phải ghi nhớ rất nhiều thứ khác nhau. Vậy, trước hết, <code>そう</code> là gì? **Nó chính là <code>そう</code> mà chúng ta đã học gần đây đi kèm trong nhóm <code>こう-そう-ああ-どう</code>.**<sup>[[20]](./20-directionals-それ-その-そんな-そう-etc.md)</sup>
 
 ![](../media/image671.webp)
 
-**So <code>そう</code> means <code>like that</code>**, which makes it of course a very good candidate for **describing something seeming like something.**
+**Vì vậy <code>そう</code> có nghĩa là <code>giống như vậy (like that)</code>**, điều này tất nhiên khiến nó trở thành một ứng cử viên rất tốt để **mô tả một cái gì đó có vẻ giống một cái gì đó.**
 
-## そう as <code>seeming like something</code>
+## そう mang nghĩa <code>có vẻ như/trông có vẻ (seeming like something)</code>
 
-**When it's used in that way, we use it by attaching it to any one of the three engines.**
+**Khi nó được sử dụng theo cách đó, chúng ta sử dụng nó bằng cách gắn nó vào bất kỳ động cơ (engine) nào trong ba động cơ.**
 
 ![](../media/image509.webp)
 
-And remember, as we've learned before, that each of the three engines can be moved behind other cars to turn them into adjectives.<sup>[[6]](./6-adjectives.md)</sup> **Now, once -そう has been attached to an engine** **the engine becomes a new adjectival noun.** How do we attach them? We do the same thing in every case. **We take the last kana from the engine.** That is the kana that makes it what it is, its active part.
+Và hãy nhớ rằng, như chúng ta đã học trước đây, mỗi động cơ trong ba động cơ có thể được di chuyển ra phía sau các toa xe khác để biến chúng thành tính từ.<sup>[[6]](./6-adjectives.md)</sup> **Bây giờ, một khi -そう đã được gắn vào một động cơ** **động cơ đó sẽ trở thành một tính từ đuôi な (adjectival noun) mới.** Chúng ta gắn chúng như thế nào? Chúng ta làm điều tương tự trong mọi trường hợp. **Chúng ta lấy kana cuối cùng từ động cơ.** Đó là kana tạo nên bản chất của nó, phần hoạt động của nó.
 
 ---
 
-**So we take the <code>だ</code> from the だ-engine - the <code>だ</code> or the <code>な</code> from the だ / な-engine.** **We take the <code>い</code> from the い-engine.** **And from the verb engine, we take that last う-row kana.** **And we just put -そう onto them**, so it's a very simple connection.
+**Vì vậy, chúng ta lấy <code>だ</code> từ động cơ だ - chữ <code>だ</code> hoặc chữ <code>な</code> từ động cơ だ / な.** **Chúng ta lấy chữ <code>い</code> từ động cơ い.** **Và từ động cơ động từ, chúng ta lấy chữ kana thuộc hàng う cuối cùng đó.** **Và chúng ta chỉ cần đặt -そう lên chúng**, vì vậy đây là một kết nối rất đơn giản.
 
-### With adjectival nouns
+### Với tính từ đuôi な (adjectival nouns)
 
-And **the important thing to remember here is in the case of nouns** **we can't do it with an ordinary, regular noun.** **We can only do it with an adjectival noun.**
+Và **điều quan trọng cần nhớ ở đây là trong trường hợp của danh từ** **chúng ta không thể làm điều đó với một danh từ thông thường, đều đặn.** **Chúng ta chỉ có thể làm điều đó với một tính từ đuôi な.**
 
 ---
 
-In other words, **if an adjectival noun is an adjectival noun to start with,** **we can turn it into a different adjectival noun with -そう.** **If it wasn't an adjectival noun to start with, it can't be turned into an adjectival noun.** So if we take adjectival nouns like <code>元気</code> (<code>lively</code> or <code>healthy</code>) and <code>静か</code> (which is <code>quiet</code>) - if we say <code>静かだ</code> we mean <code>is quiet</code> - if we say <code>元気だ</code> we mean <code>is lively or healthy</code>. If we say <code>元気**な**学生</code>, we're saying <code>a lively or healthy-***is*** student</code>. Now **if we** take off that <code>だ</code> or <code>な</code> and **put on -そう** - and we say <code>元気**そうな**学生</code>, we're saying <code>a lively **looking**-***is*** student/ a lively **seeming**-***is*** student</code>. Similarly, if we say <code>静かな女の子</code>, we're saying <code>a quiet-***is*** girl</code>. **If we** take off that -な or だ and **put on -そう** and say <code>静か**そうな**女の子</code>, we're saying <code>a quiet-**seeming**-***is*** girl/ a quiet-**looking**-***is*** girl</code>. So that's really very simple, isn't it?
+Nói cách khác, **nếu một tính từ đuôi な vốn dĩ là một tính từ đuôi な ngay từ đầu,** **chúng ta có thể biến nó thành một tính từ đuôi な khác bằng -そう.** **Nếu ban đầu nó không phải là tính từ đuôi な, thì không thể biến nó thành tính từ đuôi な được.** Vì vậy, nếu chúng ta lấy các tính từ đuôi な như <code>元気</code> (<code>tràn đầy sức sống</code> hoặc <code>khỏe mạnh</code>) và <code>静か</code> (có nghĩa là <code>yên tĩnh</code>) - nếu chúng ta nói <code>静かだ</code> có nghĩa là <code>thì yên tĩnh</code> - nếu chúng ta nói <code>元気だ</code> có nghĩa là <code>thì hoạt bát hoặc khỏe mạnh</code>. Nếu chúng ta nói <code>元気**な**学生</code>, chúng ta đang nói <code>một học sinh ***thì***-khỏe mạnh hoặc hoạt bát</code>. Bây giờ **nếu chúng ta** bỏ <code>だ</code> hoặc <code>な</code> đi và **thêm -そう vào** - và chúng ta nói <code>元気**そうな**学生</code>, chúng ta đang nói <code>một học sinh ***thì***-**trông có vẻ** hoạt bát / một học sinh ***thì***-**có vẻ** khỏe mạnh</code>. Tương tự, nếu chúng chúng ta nói <code>静かな女の子</code>, chúng ta đang nói <code>một cô gái ***thì***-yên tĩnh</code>. **Nếu chúng ta** bỏ -な hoặc だ đó đi và **thêm -そう vào** và nói <code>静か**そうな**女の子</code>, chúng ta đang nói <code>một cô gái ***thì***-**có vẻ** yên tĩnh / một cô gái ***thì***-**trông** yên tĩnh</code>. Rất đơn giản, phải không?
 
 ::: info
-As shown above, we take off the だ / な from the OG adjectival noun, but then when we connect -そう after it, we then still use the だ / な, but it instead comes from the そう part. It may be framed a bit confusingly, considering the examples Dolly gives still contain だ / な.
+Như được trình bày ở trên, chúng ta bỏ だ / な khỏi tính từ đuôi な gốc, nhưng khi chúng ta nối -そう đằng sau nó, chúng ta vẫn sử dụng だ / な, nhưng thay vào đó nó bắt nguồn từ phần そう. Nó có thể được trình bày hơi khó hiểu, vì các ví dụ mà Dolly đưa ra vẫn chứa だ / な.
 :::
 
-*So just in case, to avoid possible confusion… Because apparently [**そう is an adjectival noun**](https://jisho.org/word/%E3%81%9D%E3%81%86) itself, so the だ / な probably attaches to そう. Here, 静か is an adjectival noun to which is attached そう, another adjectival noun, that seems to serve as a suffix to which is attached な to connect it with 女. So 静かそうな is one unit. This would align with Dolly’s orange comment just below about copula being used with そう.*
+*Vì vậy, để đề phòng, nhằm tránh sự nhầm lẫn có thể xảy ra... Bởi vì dường như [**bản thân そう là một tính từ đuôi な**](https://jisho.org/word/%E3%81%9D%E3%81%86), nên だ / な có thể gắn với そう. Ở đây, 静か là một tính từ đuôi な được gắn với そう, một tính từ đuôi な khác, dường như đóng vai trò như một hậu tố được gắn với な để nối nó với 女. Vì vậy 静かそうな là một đơn vị. Điều này sẽ phù hợp với nhận xét màu cam của Dolly ngay bên dưới về hệ từ (copula) được sử dụng với そう.*
 
-*This is just my limited understanding, so take this with a grain of salt. Contact me if I am wrong.*
+*Đây chỉ là hiểu biết hạn chế của tôi, vì vậy hãy coi chừng. Liên hệ với tôi nếu tôi sai.*
 
-### With adjectives
+### Với tính từ đuôi い
 
-**With adjectives that end in <code>い</code>, we simply take off that -い and put -そう onto it.**
+**Với các tính từ kết thúc bằng <code>い</code>, chúng ta chỉ cần bỏ -い đó đi và đặt -そう vào nó.**
 
 ![](../media/image609.webp)
 
 ::: info
-Do carefully note that orange comment above on the picture with そう + だ. 
+Hãy cẩn thận lưu ý nhận xét màu cam phía trên về bức ảnh có そう + だ. 
 :::
 
-So, if we take <code>面白い</code> (<code>interesting-*is*</code> or <code>amusing-*is*</code>), <code>おいしい</code> (<code>delicious-*is*</code>), **we just cut off the -い and add -そう.** So, <code>面白い</code> means <code>interesting-***is***</code> or <code>amusing-***is***</code>, <code>面白**そう**</code> means <code>**seems** interesting / **seems** amusing</code>. <code>おいしい</code> means <code>delicious / tasty-*is*</code>, <code>おいし**そう**</code> means it <code>**looks** delicious</code>, it <code>**looks** tasty</code>. And this is an important one to remember because, as we've mentioned before, **Japanese is a lot stricter than English in restricting us to saying** **only things that we can actually know for ourselves.**
+Vì vậy, nếu chúng ta lấy <code>面白い</code> (<code>*thì*-thú vị</code> hoặc <code>*thì*-buồn cười</code>), <code>おいしい</code> (<code>*thì*-ngon</code>), **chúng ta chỉ cần cắt bỏ -い và thêm -そう.** Vì vậy, <code>面白い</code> có nghĩa là <code>***thì***-thú vị</code> hoặc <code>***thì***-buồn cười</code>, <code>面白**そう**</code> có nghĩa là <code>**có vẻ** thú vị / **có vẻ** buồn cười</code>. <code>おいしい</code> có nghĩa là <code>***thì***-ngon / ngon miệng</code>, <code>おいし**そう**</code> có nghĩa là nó <code>**trông** ngon miệng</code>, nó <code>**trông** ngon</code>. Và đây là một điều quan trọng cần nhớ bởi vì, như chúng ta đã đề cập trước đây, **Tiếng Nhật nghiêm ngặt hơn nhiều so với tiếng Anh trong việc hạn chế chúng ta nói** **chỉ những điều mà chúng ta thực sự có thể tự mình biết được.**
 
 ---
 
-**So unless you've tasted something, you can't say it's <code>おいしい</code>.** **Unless you've done something, you can't say it's <code>面白い</code> - interesting or amusing.** Logically this perhaps ought to be so in English, but Japanese is a lot stricter about it. So, it's important to know things like <code>面白**そう**</code>, <code>おいし**そう**</code> **if we haven't actually tasted the food, done the activity or whatever.**
+**Vì vậy, trừ khi bạn đã nếm thử thứ gì đó, bạn không thể nói nó là <code>おいしい</code>.** **Trừ khi bạn đã làm điều gì đó, bạn không thể nói nó <code>面白い</code> - thú vị hay buồn cười.** Theo logic thì tiếng Anh có lẽ cũng nên như vậy, nhưng tiếng Nhật thì nghiêm ngặt hơn nhiều về điều này. Vì vậy, điều quan trọng là phải biết những thứ như <code>面白**そう**</code>, <code>おいし**そう**</code> **nếu chúng ta chưa thực sự nếm thức ăn, thực hiện hoạt động hay bất cứ điều gì.**
 
-### With verbs
+### Với động từ
 
-Now, **with a verb we cut off the う-row kana.** Obviously, as always, in the case of ichidan verbs that's all we do. And **in the case of godan verbs we use the い-stem.**
+Bây giờ, **với một động từ, chúng ta cắt bỏ kana hàng う.** Rõ ràng, như mọi khi, trong trường hợp động từ ichidan (nhóm 2) đó là tất cả những gì chúng ta làm. Và **trong trường hợp động từ godan (nhóm 1), chúng ta sử dụng thân い (i-stem).**
 
 ![](../media/image264.webp)
 
-And the い-stem is what you might call the pure stem of a verb. In Japanese it's called **<code>れんようけい/連用形</code>, which means <code>connective-use form</code>.** And that might sound strange because we know that all four stems actually connect things, but while the other three have particular uses, **the <code>れんようけい/連用形</code>, the い-stem, as well as its particular uses,** **can be used to connect almost anything.** **It can connect verbs to nouns to make new nouns;** **it can link verbs to verbs to make new verbs; and so on.**
+Và thân い là những gì bạn có thể gọi là thân thuần túy của một động từ. Trong tiếng Nhật, nó được gọi là **<code>れんようけい/連用形 (liên dụng hình)</code>, có nghĩa là <code>dạng sử dụng để kết nối (connective-use form)</code>.** Và điều đó có vẻ kỳ lạ vì chúng ta biết rằng cả bốn thân thực sự đều kết nối các thứ, nhưng trong khi ba thân kia có công dụng riêng biệt, **<code>れんようけい/連用形</code>, tức thân い, bên cạnh các công dụng riêng của nó,** **có thể được sử dụng để kết nối hầu như bất cứ thứ gì.** **Nó có thể kết nối động từ với danh từ để tạo danh từ mới;** **nó có thể liên kết động từ với động từ để tạo động từ mới; và vân vân.**
 
 ---
 
-So, **we connect -そう to the <code>連用形</code>, the い-stem**, the general-purpose connecting stem of verbs. What do they mean? Well, **generally speaking, they mean that something appears to be about to happen.**
+Vì vậy, **chúng ta kết nối -そう với <code>連用形</code>, tức thân い**, thân kết nối đa năng của động từ. Chúng có ý nghĩa gì? Chà, **nói chung, chúng có nghĩa là một cái gì đó có vẻ sắp xảy ra.**
 
 ![](../media/image996.webp)
 
 ::: info
-Once again, the reminder comment about だ being used after そう.
+Một lần nữa, nhận xét nhắc nhở về việc だ được sử dụng sau そう.
 :::
 
-So, <code>雨が降り**そうだ**</code> means <code>it **looks as if** it's about to rain</code>. <code>子どもが泣き**そう*(だ)***</code> means <code>The child **looks as if** she's about to cry / **seems as if** she's about to cry.</code> And if you see that's quite similar to what we might say in English: <code>It **looks like** rain / it **seems as if** it's about to rain.</code> So these usages are really quite straightforward.
+Vì vậy, <code>雨が降り**そうだ**</code> có nghĩa là <code>**có vẻ như** trời sắp mưa</code>. <code>子どもが泣き**そう*(だ)***</code> có nghĩa là <code>Đứa trẻ **trông có vẻ** sắp khóc / **dường như** sắp khóc.</code> Và nếu bạn thấy thì nó khá giống với những gì chúng ta có thể nói bằng tiếng Anh: <code>Trời **có vẻ như (looks like)** sẽ mưa / **có vẻ như (seems as if)** trời sắp mưa.</code> Vì vậy những cách sử dụng này thực sự khá đơn giản.
 
-## そう as hearsay
+## そう mang nghĩa tin đồn (hearsay/nghe nói)
 
-Now what do we do when we're using <code>そう</code> to mean hearsay, to mean <code>I heard something - I'm not reporting my own observation or feeling, I'm reporting what I got at second-hand from somebody else</code>? Some people would say that this is also a suffix and we have to observe different rules for applying it, **but the truth is that it is not a suffix.**
+Bây giờ chúng ta sẽ làm gì khi sử dụng <code>そう</code> với nghĩa là tin đồn, có nghĩa là <code>Tôi nghe thấy một cái gì đó - Tôi không báo cáo quan sát hay cảm nhận của riêng mình, tôi đang báo cáo những gì tôi nhận được từ người thứ hai</code>? Một số người sẽ nói rằng đây cũng là một hậu tố và chúng ta phải tuân thủ các quy tắc khác nhau để áp dụng nó, **nhưng sự thật là nó không phải là một hậu tố.**
 
 ---
 
-**The -そう we've just discussed is a suffix.** **We join it to other words in order to form a new word.** Whatever the word was to start with, **once -そう is attached it becomes an adjectival noun.**
+**-そう mà chúng ta vừa thảo luận là một hậu tố.** **Chúng ta nối nó với các từ khác để tạo thành một từ mới.** Dù từ đó ban đầu là gì, **một khi -そう được gắn vào, nó trở thành một tính từ đuôi な.**
 
 ::: info
-Seems to point to my previous idea above…
+Có vẻ chỉ ra ý tưởng trước đó của tôi ở trên…
 :::
 
 *---*
 
-**This is not what happens when we're talking about hearsay.** When we're talking about hearsay, we use <code>**そうだ**</code> or <code>**そうです**</code> **after the entire, complete sentence.**
+**Đây không phải là điều xảy ra khi chúng ta đang nói về tin đồn (nghe nói).** Khi nói về tin đồn, chúng ta sử dụng <code>**そうだ**</code> hoặc <code>**そうです**</code> **sau toàn bộ một câu hoàn chỉnh.**
 
 ![](../media/image208.webp)
 
-**So the complete sentence becomes the A-car of the sentence** and **the <code>そうだ</code> becomes the B-engine.** And **the content of the sentence is now subordinate.** So let's take an example:
+**Vì vậy, toàn bộ câu đó trở thành toa xe A của câu** và **<code>そうだ</code> trở thành động cơ B.** Và **nội dung của câu hiện nay trở thành phụ thuộc.** Hãy lấy một ví dụ:
 
 ![](../media/image1017.webp)
 
-<code>さくらが日本人だ**そうだ**</code>. What we're saying here is <code>**I've heard that** Sakura is a Japanese person</code>. So, **<code>Sakura is a Japanese person</code> is all taken together as Car A, the subject of the sentence, and then what we're saying about it is that we've heard it.** Why do we use <code>そうだ/そうです</code> to mean <code>I've heard</code>?
+<code>さくらが日本人だ**そうだ**</code>. Những gì chúng ta đang nói ở đây là <code>**Tôi nghe nói rằng** Sakura là người Nhật</code>. Vì vậy, **<code>Sakura là người Nhật</code> đều được coi là Toa xe A, chủ đề của câu, và sau đó những gì chúng ta nói về nó là chúng ta đã nghe điều đó.** Tại sao chúng ta sử dụng <code>そうだ/そうです</code> để mang nghĩa <code>Tôi đã nghe nói (I've heard)</code>?
 
 ![](../media/image733.webp)
 
-Well, if you think about it, it's similar to what we might say in English. Suppose we say <code>Why isn't that car in the street any more?</code> and you say <code>It seems some masked people came and drove it away</code>. Now, when you say that, what that means is that somebody told you that, doesn't it? If you'd seen it yourself you'd have said <code>Some masked people came and drove it away</code>, but when you say <code>It seems some masked people came and drove it away</code>, what you're saying is <code>Well, that's the story I've heard</code>.
+Chà, nếu bạn nghĩ về nó, nó tương tự như những gì chúng ta có thể nói trong tiếng Anh. Giả sử chúng ta nói <code>Tại sao chiếc xe đó không còn ở trên đường phố nữa?</code> và bạn nói <code>Có vẻ như một số người đeo mặt nạ đã đến và lái nó đi (It seems some masked people came and drove it away)</code>. Bây giờ, khi bạn nói điều đó, điều đó có nghĩa là ai đó đã nói với bạn điều đó, đúng không? Nếu chính bạn nhìn thấy điều đó, bạn sẽ nói <code>Vài người đeo mặt nạ đã đến và lái nó đi</code>, nhưng khi bạn nói <code>Có vẻ như vài người đeo mặt nạ đã đến và lái nó đi</code>, những gì bạn đang nói là <code>Chà, đó là câu chuyện tôi đã nghe</code>.
 
 ::: info
-I would check [**this comment**](https://www.youtube.com/watch?v=uSJukXcyccw&lc=Ugy3WGJ0efK8lG72-N94AaABAg&ab_channel=OrganicJapanesewithCureDolly) too...
+Tôi cũng sẽ kiểm tra [**bình luận này**](https://www.youtube.com/watch?v=uSJukXcyccw&lc=Ugy3WGJ0efK8lG72-N94AaABAg&ab_channel=OrganicJapanesewithCureDolly)...
 :::
 
-And it's the same in Japanese only a little more systematically. **<code>そうだ/そうです</code> when added as the B-engine to an entire, completed sentence is always** **saying that this is what we've heard, this is the information we have, for what it's worth.**
+Và trong tiếng Nhật cũng vậy, chỉ là có hệ thống hơn một chút. **<code>そうだ/そうです</code> khi được thêm làm động cơ B vào một câu hoàn chỉnh, trọn vẹn thì luôn** **nói rằng đây là những gì chúng ta đã nghe, đây là thông tin chúng ta có, với giá trị của nó.**

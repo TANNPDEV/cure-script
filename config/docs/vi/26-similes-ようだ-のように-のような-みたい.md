@@ -1,99 +1,99 @@
-# **26. Similes: ようだ・のように・のような ・みたい**
+# **26. So sánh ngầm (Similes): ようだ・のように・のような ・みたい**
 
 [**Lesson 26: The crystalline logic of Japanese similes: のように・のような ・みたいgrammar**](https://www.youtube.com/watch?v=Ft_zw0mdeyI&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=28&pp=iAQB)
 
 こんにちは。
 
-Today we're going to talk about <code>ようだ</code> and give a little mention to her cousin <code>みたい</code>. We're going to discover that <code>ようだ</code> constitutes the other end of a sliding scale with the expressions of conjecture and likeness that we discussed in the last two lessons.
+Hôm nay chúng ta sẽ nói về <code>ようだ</code> và nhắc một chút đến người anh em họ của nó là <code>みたい</code>. Chúng ta sẽ khám phá ra rằng <code>ようだ</code> cấu thành một đầu của thang trượt với các biểu thức phỏng đoán và sự tương đồng mà chúng ta đã thảo luận trong hai bài học trước.
 
 ![](../media/image709.webp)
 
-At one end we have <code>そうだ</code>, at the other end we have <code>ようだ</code>, and in the middle we have <code>らしい</code>. All of these expressions can be placed at the end of a completed logical sentence in order to express that that sentence is either what we've heard or what we conjecture from the information we have or from what we can see. But when we attach them to individual words, then we have this sliding scale of meaning.
+Ở một đầu, chúng ta có <code>そうだ</code>, ở đầu kia chúng ta có <code>ようだ</code>, và ở giữa chúng ta có <code>らしい</code>. Tất cả những biểu thức này có thể được đặt ở cuối một câu logic hoàn chỉnh để diễn đạt rằng câu đó là những gì chúng ta đã nghe hoặc những gì chúng ta phỏng đoán từ thông tin chúng ta có hoặc từ những gì chúng ta có thể nhìn thấy. Nhưng khi chúng ta gắn chúng vào các từ riêng lẻ, thì chúng ta có thang trượt ý nghĩa này.
 
-With <code>そうだ</code>, as we know, we use this to conjecture what the quality of something is. We can say <code>おいしそうだ</code> - <code>It looks delicious /I haven't tried it, but I think if I did, I would find it delicious.</code> With <code>らしい</code> we have a much greater degree of subjectivity. <code>らしい</code> overlaps with <code>そうだ</code> in many respects, but it can also do things that <code>そうだ</code> cannot do.
+Với <code>そうだ</code>, như chúng ta biết, chúng ta sử dụng cái này để phỏng đoán chất lượng của một cái gì đó là gì. Chúng ta có thể nói <code>おいしそうだ</code> - <code>Trông có vẻ ngon / Tôi chưa thử, nhưng tôi nghĩ nếu tôi thử, tôi sẽ thấy nó ngon.</code> Với <code>らしい</code> chúng ta có một mức độ chủ quan lớn hơn nhiều. <code>らしい</code> trùng lặp với <code>そうだ</code> ở nhiều khía cạnh, nhưng nó cũng có thể làm những điều mà <code>そうだ</code> không thể làm được.
 
-It can compare things to other things, to things that we know they aren't. We can say that an animal is <code>ウサギらしい</code> - <code>rabbit-like</code> - even though we know it isn't a rabbit. We can say that a person is <code>子どもらしい</code> - <code>child-like</code> - whether she is in fact a child or not. We are not necessarily conjecturing that the animal is a rabbit or the person is a child. We are just making that comparison.
+Nó có thể so sánh mọi thứ với những thứ khác, với những thứ mà chúng ta biết là không phải. Chúng ta có thể nói rằng một con vật là <code>ウサギらしい</code> - <code>giống-như-thỏ (rabbit-like)</code> - mặc dù chúng ta biết nó không phải là một con thỏ. Chúng ta có thể nói rằng một người là <code>子どもらしい</code> - <code>giống-trẻ-con (child-like)</code> - cho dù cô ấy trên thực tế có phải là trẻ con hay không. Chúng ta không nhất thiết phỏng đoán rằng con vật là một con thỏ hoặc người là một đứa trẻ. Chúng ta chỉ đang thực hiện sự so sánh đó.
 
 ## ようだ ・ように・ような
 
-Now, <code>ようだ</code> can go much further. It can make an actual metaphor or simile. So with <code>ようだ</code> we can say such things as <code>a sumo wrestler is like a mountain</code> or <code>a person runs like the wind</code>. Now these are, if you like, literary style or poetic similes or metaphors.
+Bây giờ, <code>ようだ</code> có thể tiến xa hơn nhiều. Nó có thể tạo ra một ẩn dụ hoặc so sánh ngầm thực sự. Vì vậy với <code>ようだ</code> chúng ta có thể nói những điều như <code>một đô vật sumo giống như một ngọn núi (a sumo wrestler is like a mountain)</code> hoặc <code>một người chạy như gió (a person runs like the wind)</code>. Bây giờ đây là, nếu bạn thích, phong cách văn chương hoặc những so sánh hoặc ẩn dụ mang tính thi ca.
 
-We're not saying that the wrestler's anything like a mountain except in the sense that he's big and solid. We're not saying that a person is in any way like the wind except that she's fast. And one of the ways we know when <code>ように</code> is acting in this way is that we can use the word <code>まるで</code> with it. So we can say <code>まるで風のように走った</code> - <code>ran just like the wind</code>.
+Chúng ta không nói rằng đô vật giống bất cứ điều gì ở một ngọn núi ngoại trừ ý nghĩa rằng anh ta to lớn và rắn chắc. Chúng ta không nói rằng một người theo bất kỳ cách nào đó giống như gió ngoại trừ việc cô ấy nhanh. Và một trong những cách chúng ta biết khi nào <code>ように</code> đang hoạt động theo cách này là chúng ta có thể sử dụng từ <code>まるで</code> với nó. Vì vậy, chúng ta có thể nói <code>まるで風のように走った</code> - <code>chạy hệt như một cơn gió</code>.
 
-Literally, <code>まるで</code> means <code>roundly</code>.
+Theo nghĩa đen, <code>まるで</code> có nghĩa là <code>một cách tròn trĩnh (roundly)</code>.
 
 ![](../media/image137.webp)
 
-<code>まる/丸</code> means a <code>circle</code> or a <code>round</code>, so when we say <code>まるで</code> we mean <code>roundly/wholly/completely</code>. And this is a hyperbole, which is common to many languages, certainly including English. We might say, in English, <code>That wrestler is exactly like a mountain.</code>
+<code>まる/丸</code> có nghĩa là <code>hình tròn</code> hoặc <code>tròn</code>, vì vậy khi chúng ta nói <code>まるで</code> chúng ta có nghĩa là <code>tròn trịa / hoàn toàn / trọn vẹn</code>. Và đây là một phép cường điệu (hyperbole), vốn phổ biến ở nhiều ngôn ngữ, chắc chắn bao gồm cả tiếng Anh. Chúng ta có thể nói, bằng tiếng Anh, <code>Đô vật đó chính xác giống như một ngọn núi. (That wrestler is exactly like a mountain.)</code>
 
-We might even say <code>I literally froze to death.</code> Now, that's the opposite of what we really mean: we don't mean that we <code>literally</code> froze to death, we mean that we figuratively froze to death. In literal reality we appear still to be alive. We don't mean that the wrestler is <code>exactly</code> like a mountain.
+Chúng ta thậm chí có thể nói <code>Theo nghĩa đen tôi đã chết cóng. (I literally froze to death.)</code> Bây giờ, đó là điều ngược lại với những gì chúng ta thực sự muốn nói: chúng ta không có ý nói rằng chúng ta <code>theo nghĩa đen (literally)</code> đã chết cóng, ý chúng ta là chúng ta đã chết cóng theo nghĩa bóng. Trong thực tế nghĩa đen, chúng ta dường như vẫn còn sống. Chúng ta không có ý nói rằng người đô vật <code>chính xác</code> giống như một ngọn núi.
 
-There isn't any snow on top of him! But the reason we say things like <code>exactly</code> and <code>literally</code> is to give emphasis to a poetic simile. And in Japanese the usual collocation here is <code>まるで</code>.
+Không có tuyết trên đỉnh đầu anh ấy! Nhưng lý do chúng ta nói những từ như <code>chính xác</code> và <code>theo nghĩa đen</code> là để tạo sự nhấn mạnh cho một sự so sánh mang tính thi ca. Và trong tiếng Nhật sự kết hợp từ thông thường ở đây là <code>まるで</code>.
 
-And this also demonstrates the difference between <code>ようだ/ような/ように</code> and the other likeness-making expressions. You can't use <code>まるで</code> with <code>そうだ</code> or <code>そうです</code>. You shouldn't use <code>まるで</code> with <code>らしい</code>. It's out of place with those expressions.
+Và điều này cũng chứng tỏ sự khác biệt giữa <code>ようだ/ような/ように</code> và các biểu thức tạo sự tương đồng khác. Bạn không thể sử dụng <code>まるで</code> với <code>そうだ</code> hoặc <code>そうです</code>. Bạn không nên sử dụng <code>まるで</code> với <code>らしい</code>. Nó không đúng chỗ với những biểu thức đó.
 
-We use <code>まるで</code> when we're going on a kind of poetic flight of fancy. It's a hyperbolic expression that signals the coming of a simile or a metaphor. When we say that a person is <code>子どもらしい</code> or an animal is <code>ウサギらしい</code>, we are extending reality a bit; we are comparing it to something that it could be but isn't.
+Chúng ta sử dụng <code>まるで</code> khi chúng ta đang đi vào một loại chuyến bay của trí tưởng tượng đầy chất thơ. Đó là một biểu thức cường điệu báo hiệu sự xuất hiện của một phép so sánh hoặc một phép ẩn dụ. Khi chúng ta nói rằng một người <code>子どもらしい</code> hoặc một con vật <code>ウサギらしい</code>, chúng ta đang mở rộng thực tế ra một chút; chúng ta đang so sánh nó với một thứ gì đó có thể là như vậy nhưng thực ra không phải.
 
-Now, if we look at the usage of these expressions, we can see that as usual in Japanese they're very logical.
+Bây giờ, nếu chúng ta xem xét cách sử dụng các biểu thức này, chúng ta có thể thấy rằng như thường lệ trong tiếng Nhật, chúng rất logic.
 
 ![](../media/image1115.webp)
 
-The textbooks will sometimes give you lists of connections and ways of using them. But actually they all make sense. We don't need a list to tell us that <code>ようだ</code> can also be used as the adverb <code>ように</code> or that it can be placed before something as the adjective <code>ような</code> - because these connections are simply the same connections that you can make with any adjectival noun.
+Sách giáo khoa đôi khi sẽ cung cấp cho bạn danh sách các liên kết và cách sử dụng chúng. Nhưng thực ra tất cả chúng đều có ý nghĩa. Chúng ta không cần một danh sách để cho chúng ta biết rằng <code>ようだ</code> cũng có thể được sử dụng làm trạng từ <code>ように</code> hoặc nó có thể được đặt trước một cái gì đó như là tính từ <code>ような</code> - bởi vì những liên kết này đơn giản chỉ là những liên kết giống hệt như bạn có thể tạo ra với bất kỳ tính từ đuôi な (adjectival noun) nào.
 
-The only thing we have to know is that, just like <code>らしい</code> and unlike <code>そうだ</code>, we can use it with any kind of a noun, not just adjectival nouns. And that also makes sense because with both <code>らしい</code> and <code>ようだ</code> we can compare things to other things, whereas with <code>そうだ</code> we can only conjecture at the quality of a thing, something that can be expressed by an adjective or an adjectival noun. And when we attach it to a verb, as we've seen, it has a slightly different meaning.
+Điều duy nhất chúng ta phải biết là, cũng giống như <code>らしい</code> và không giống như <code>そうだ</code>, chúng ta có thể sử dụng nó với bất kỳ loại danh từ nào, không chỉ là tính từ đuôi な. Và điều đó cũng có ý nghĩa bởi vì với cả <code>らしい</code> và <code>ようだ</code> chúng ta có thể so sánh mọi thứ với những thứ khác, trong khi với <code>そうだ</code> chúng ta chỉ có thể phỏng đoán về đặc tính của một sự vật, điều mà có thể được thể hiện bằng một tính từ hoặc một tính từ đuôi な. Và khi chúng ta gắn nó vào một động từ, như chúng ta đã thấy, nó có ý nghĩa hơi khác một chút.
 
-However, <code>ようだ</code> has a special connection that the others don't have.
+Tuy nhiên, <code>ようだ</code> có một liên kết đặc biệt mà những từ khác không có.
 
 ![](../media/image510.webp)
 
-As you know, we can simply pop it onto an entire sentence, as we can the other two, with the meaning of <code>(that sentence) is what appears to be the case</code>. But we can also put it onto an entire, complete sentence with a different meaning. We can do it in order to turn the whole sentence into our simile.
+Như bạn đã biết, chúng ta có thể chỉ cần gắn nó vào một toàn bộ câu, giống như hai từ kia, với ý nghĩa là <code>(câu đó) là những gì có vẻ là trường hợp đang xảy ra</code>. Nhưng chúng ta cũng có thể đặt nó vào một toàn bộ câu hoàn chỉnh với một ý nghĩa khác. Chúng ta có thể làm điều đó để biến toàn bộ câu thành phép so sánh của chúng ta.
 
-So, for example, we can say <code>まるでゆうれいを見たかのような顔をした</code> - <code>She had a face (or made a face) exactly as if she had seen a ghost.</code>
+Ví dụ, chúng ta có thể nói <code>まるでゆうれいを見たかのような顔をした</code> - <code>Cô ấy có một khuôn mặt (hoặc làm ra một khuôn mặt) giống hệt như thể cô ấy đã nhìn thấy ma.</code>
 
 ![](../media/image222.webp)
 
-Now, as we see, <code>she had seen a ghost</code> is an entire logical clause. In Japanese we have the zero-particle for <code>she</code>, but it's a complete logical clause: <code>she saw a ghost</code> - <code>ゆうれいを見た</code> - <code>zeroがゆうれいを見た</code>. Now, then we put <code>か</code> onto the end of it. What is this <code>か</code>?
+Bây giờ, như chúng ta thấy, <code>cô ấy đã nhìn thấy một con ma (she had seen a ghost)</code> là một mệnh đề logic hoàn chỉnh. Trong tiếng Nhật, chúng ta có trợ từ zero (không có trợ từ) cho <code>she (cô ấy)</code>, nhưng nó là một mệnh đề logic hoàn chỉnh: <code>cô ấy đã thấy một con ma</code> - <code>ゆうれいを見た</code> - <code>zeroがゆうれいを見た</code>. Bây giờ, sau đó chúng ta đặt <code>か</code> vào cuối nó. <code>か</code> này là gì?
 
-## The か particle
+## Trợ từ か
 
-We haven't talked an awful lot about the か-particle because in です/ます Japanese you use it to mark a question. You can use it to mark a question in informal Japanese, which is what we usually use here, but mostly we don't because paradoxically it doesn't seem polite to put <code>か</code> at the end of an informal question - it tends to seem a little bit blunt or curt.
+Chúng ta chưa nói nhiều về trợ từ か bởi vì trong tiếng Nhật です/ます bạn sử dụng nó để đánh dấu một câu hỏi. Bạn có thể sử dụng nó để đánh dấu một câu hỏi trong tiếng Nhật không trang trọng, đó là điều chúng ta thường sử dụng ở đây, nhưng chủ yếu chúng ta không dùng bởi vì nghịch lý là việc đặt <code>か</code> ở cuối một câu hỏi không trang trọng dường như không lịch sự - nó có xu hướng có vẻ hơi cùn hoặc cộc lốc.
 
-However, the question-marker <code>か</code> has another important function. And that is that it can bundle a statement into a kind of question, and that's what's happening here. We start off with <code>まるで</code> to signal that we are going to use a simile.
+Tuy nhiên, đuôi đánh dấu câu hỏi <code>か</code> có một chức năng quan trọng khác. Và đó là nó có thể gói một câu lệnh thành một loại câu hỏi, và đó là những gì đang xảy ra ở đây. Chúng ta bắt đầu với <code>まるで</code> để ra hiệu rằng chúng ta sắp sử dụng một phép so sánh.
 
-Then we make our completed statement - <code>ゆうれいを見た</code> - <code>zeroがゆうれいを見た</code> - <code>she saw a ghost</code>. And then we add <code>か</code> and that turns it into a question. It gives us our <code>if</code> - <code>as if she had seen a ghost</code>.
+Sau đó chúng ta đưa ra câu lệnh đã hoàn thành của mình - <code>ゆうれいを見た</code> - <code>zeroがゆうれいを見た</code> - <code>cô ấy đã nhìn thấy một con ma</code>. Và sau đó chúng ta thêm <code>か</code> và điều đó biến nó thành một câu hỏi. Nó cho chúng ta chữ <code>if (nếu / như thể)</code> của chúng ta - <code>như thể (as if) cô ấy đã nhìn thấy một con ma</code>.
 
-And that <code>か</code> gives us our questioning <code>if</code>. In fact, she hadn't seen a ghost, so this isn't really a statement; it's a possibility, a potentiality, an if. What she actually did perhaps was saw the fees that PayPal charged her for an international money transfer.
+Và <code>か</code> đó cho chúng ta chữ <code>if</code> mang tính chất câu hỏi của chúng ta. Thực tế, cô ấy đã không nhìn thấy ma, vì vậy đây không thực sự là một lời tuyên bố; nó là một khả năng, một tiềm năng, một chữ nếu (if). Những gì cô ấy thực sự đã làm có lẽ là đã thấy các khoản phí mà PayPal tính cho cô ấy đối với việc chuyển tiền quốc tế.
 
-We're not suggesting that she really saw a ghost. We are suggesting that the face she manifested - <code>顔をした</code> - was similar to the face that she would have manifested if - <code>か</code> - she had seen a ghost.
+Chúng ta không cho rằng cô ấy thực sự nhìn thấy một con ma. Chúng ta đang ngụ ý rằng khuôn mặt mà cô ấy thể hiện ra - <code>顔をした</code> - tương tự như khuôn mặt mà cô ấy sẽ thể hiện ra nếu - <code>か</code> - cô ấy đã nhìn thấy một con ma.
 
-Now, the other thing that we need to understand about this <code>か</code> is that it in effect nominalizes the logical clause that it marks.
+Bây giờ, điều khác mà chúng ta cần hiểu về <code>か</code> này là trên thực tế, nó đã danh từ hóa mệnh đề logic mà nó đánh dấu.
 
 ![](../media/image568.webp)
 
-So what it's doing is turning this complete logical clause into a question, a hypothesis, an if, that then functions structurally as a noun. So it can be marked by の, which can only happen to a noun. And so this new noun, this object that we've created from an entire logical clause, can now be connected to another noun by the particle の.
+Vì vậy, những gì nó đang làm là biến mệnh đề logic hoàn chỉnh này thành một câu hỏi, một giả thuyết, một chữ if, điều sau đó có chức năng cấu trúc như một danh từ. Vì vậy, nó có thể được đánh dấu bởi の, điều mà chỉ có thể xảy ra với một danh từ. Và vì vậy danh từ mới này, đối tượng này mà chúng ta đã tạo ra từ một toàn bộ mệnh đề logic, giờ đây có thể được kết nối với một danh từ khác bằng trợ từ の.
 
-<code>よう</code> is a <code>form</code> or a <code>likeness</code> - <code>やまのよう</code> is the form of a mountain, <code>風のよう</code> is the form or likeness of the wind, and in this case, <code>ゆうれいを見たかのよう</code> is the likeness of this object that we've created from the hypothesis of having seen a ghost. Now, again, this is not something we can do with any of the others. We can't even do it with <code>みたい</code>, which works in most respects pretty much exactly the same as <code>のよう</code>.
+<code>よう</code> là một <code>hình dạng</code> hoặc một <code>sự tương đồng/sự giống nhau (likeness)</code> - <code>やまのよう</code> là hình dạng của một ngọn núi, <code>風のよう</code> là hình dạng hoặc sự giống nhau của cơn gió, và trong trường hợp này, <code>ゆうれいを見たかのよう</code> là sự giống nhau của đối tượng này mà chúng ta đã tạo ra từ giả thuyết về việc đã nhìn thấy một con ma. Bây giờ, một lần nữa, đây không phải là điều mà chúng ta có thể làm với bất kỳ từ nào khác. Chúng ta thậm chí không thể làm điều đó với <code>みたい</code>, một từ hoạt động ở hầu hết các khía cạnh gần như giống hệt như <code>のよう</code>.
 
 ## みたい
 
-<code>みたい</code> is the less formal cousin of <code>よう</code> and broadly means the same thing and broadly can be used in the same ways.
+<code>みたい</code> là một người anh em họ ít trang trọng hơn của <code>よう</code> và nói chung có ý nghĩa tương tự và nói chung có thể được sử dụng theo những cách tương tự.
 
 ![](../media/image676.webp)
 
-It's an adjectival noun just like that <code>よう</code>, can be used with <code>に</code> to make it an adverb or with <code>な</code> to make it a before-the noun adjective just as any adjectival noun can be. The main things to remember about it is simply that it's less formal, so you don't use it in an essay.
+Nó là một tính từ đuôi な giống như <code>よう</code> đó, có thể được sử dụng với <code>に</code> để biến nó thành một trạng từ hoặc với <code>な</code> để biến nó thành một tính từ đứng trước danh từ giống như bất kỳ tính từ đuôi な nào có thể làm. Điều chính cần nhớ về nó chỉ đơn giản là nó ít trang trọng hơn, vì vậy bạn không sử dụng nó trong một bài luận.
 
-On the other hand, you might prefer to choose it when you're talking to a friend over <code>ようだ</code> in many cases, just because it sounds a bit less formal and a bit more friendly. But you can't use it with a completed sentence.
+Mặt khác, trong nhiều trường hợp bạn có thể muốn chọn nó khi nói chuyện với một người bạn thay vì <code>ようだ</code>, chỉ vì nghe nó có vẻ bớt trang trọng hơn một chút và thân thiện hơn một chút. Nhưng bạn không thể sử dụng nó với một câu đã hoàn thành.
 
-You can use it with a complete sentence in order to conjecture that that statement is the case, but you can't use it with <code>か</code> to use a complete sentence as a simile. You have to use <code>かのようだ/かのように</code> for that. The other thing to note is that sometimes, probably because it is very casual, the <code>だ</code> or <code>です</code> gets left off from <code>みたい</code>.
+Bạn có thể sử dụng nó với một câu hoàn chỉnh để phỏng đoán rằng câu lệnh đó là sự thật, nhưng bạn không thể sử dụng nó với <code>か</code> để dùng một câu hoàn chỉnh như một phép so sánh ngầm. Bạn phải sử dụng <code>かのようだ/かのように</code> cho điều đó. Một điều khác cần lưu ý là đôi khi, có lẽ vì nó rất thông tục (suồng sã), <code>だ</code> hoặc <code>です</code> bị lược bỏ khỏi <code>みたい</code>.
 
-You might say <code>まるでヒツジみたい</code> - <code>just like a sheep</code>.
+Bạn có thể nói <code>まるでヒツジみたい</code> - <code>hệt như một con cừu</code>.
 
 ![](../media/image1.webp)
 
-This isn't correct grammar - you ought to say <code>みたいだ</code> - but it's very common to leave it off. It's not common to leave it off of <code>ようだ</code>.
+Điều này không đúng ngữ pháp - bạn nên nói <code>みたいだ</code> - nhưng việc lược bỏ nó là rất phổ biến. Việc lược bỏ nó khỏi <code>ようだ</code> là không phổ biến.
 
 ::: info
-I will just in case add that this adjectival noun みたい is NOT the same as 見たい (an adjective meaning <code>see-inducing</code>). These are two different <code>みたいs</code>. You can’t write this みたい as 見たい, else it will be an adjective <code>see-inducing</code>. What Dolly-先生 says in the comments:  
+Tôi sẽ nói thêm để đề phòng rằng tính từ đuôi な みたい này KHÔNG giống với 見たい (một tính từ có nghĩa là <code>muốn nhìn (see-inducing)</code>). Đây là hai <code>みたい</code> khác nhau. Bạn không thể viết みたい này là 見たい, nếu không nó sẽ là một tính từ mang nghĩa <code>muốn nhìn</code>. Những gì Dolly-sensei nói trong phần bình luận:  
 
 ![](../media/image602.webp)
 
