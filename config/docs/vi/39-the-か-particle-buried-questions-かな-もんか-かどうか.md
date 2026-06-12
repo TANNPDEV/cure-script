@@ -1,138 +1,138 @@
-# **39. The か Particle: <code>Buried questions</code>, かな, もんか, かどうか...**
+# **39. Trợ từ か: Những câu hỏi <code>bị chôn vùi</code>, かな, もんか, かどうか...**
 
 [**Lesson 39: The か Ka-particle's Secret Life! <code>Buried questions</code>, Kana, Monka, Ka dou ka & much more**](https://www.youtube.com/watch?v=TOv3voBcEv8&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=41&pp=iAQB)
 
 こんにちは。
 
-Today we're going to talk about questions that aren't questions. They come up all the time in Japanese, so it's important to understand what they are and how they work. So, what we're going to talk about is the particle -か.
+Hôm nay chúng ta sẽ nói về những câu hỏi không phải là câu hỏi. Chúng xuất hiện mọi lúc trong tiếng Nhật, vì vậy điều quan trọng là phải hiểu chúng là gì và chúng hoạt động như thế nào. Vậy, những gì chúng ta sẽ nói đến là trợ từ -か.
 
-Now, we probably know the particle -か as a kind of verbal question mark that goes at the end of です/ます sentences to turn them into questions. However, we don't use -か, as we explained last week, at the end of sentences to mark them as questions in regular, non-formal Japanese.
+Bây giờ, chúng ta có thể đã biết trợ từ -か như một loại dấu chấm hỏi bằng lời nói được đặt ở cuối các câu です/ます để biến chúng thành câu hỏi. Tuy nhiên, như chúng tôi đã giải thích vào tuần trước, chúng ta không sử dụng -か ở cuối câu để đánh dấu chúng là câu hỏi trong tiếng Nhật thông thường, không trang trọng.
 
-Why not? Because putting -か at the end of a non-formal sentence sounds kind of blunt and rough. It's not ungrammatical, and it's sometimes used by male speakers who want to sound blunt or rough.
+Tại sao không? Bởi vì đặt -か ở cuối một câu không trang trọng nghe có vẻ khá cộc lốc và thô lỗ. Nó không sai ngữ pháp, và thỉnh thoảng nó được sử dụng bởi những người nói là nam giới muốn tỏ ra cộc lốc hoặc thô lỗ.
 
-But generally speaking, we don't use it. We indicate questions by intonation in regular speech. But we do use the -か marker all the time, just not at the end of sentences.
+Nhưng nói chung, chúng ta không sử dụng nó. Chúng ta chỉ định câu hỏi bằng ngữ điệu trong cách nói thông thường. Nhưng chúng ta luôn sử dụng dấu hiệu -か, chỉ là không phải ở cuối câu.
 
-What do we use it for? Well, we use it to mark questions, but not quite what we normally think of when we say <code>question</code>.
+Chúng ta sử dụng nó để làm gì? Chà, chúng ta sử dụng nó để đánh dấu các câu hỏi, nhưng không hẳn là những gì chúng ta thường nghĩ đến khi chúng ta nói <code>câu hỏi</code>.
 
-So let's start right off with an example. Suppose we say, <code>さくらが来るかわからない.</code> What we're saying is <code>I don't know if Sakura will come.</code>
+Vậy hãy bắt đầu ngay với một ví dụ. Giả sử chúng ta nói, <code>さくらが来るかわからない.</code> Những gì chúng ta đang nói là <code>Tôi không biết liệu Sakura có đến không (I don't know if Sakura will come).</code>
 
-And what's literally happening here is that we're turning the logical sentence, the proposition, <code>さくらが来る</code>, which means <code>Sakura will come</code>, into a question, and then we're saying <code>わからない.</code> So we're essentially saying <code>Sakura come (question), not clear / The question of whether Sakura will come is not clear to me.</code>
+Và điều đang xảy ra theo đúng nghĩa đen ở đây là chúng ta đang biến câu logic, mệnh đề, <code>さくらが来る</code>, có nghĩa là <code>Sakura sẽ đến (Sakura will come)</code>, thành một câu hỏi, và sau đó chúng ta nói <code>わからない.</code> Vì vậy về cơ bản chúng ta đang nói <code>Việc Sakura đến (câu hỏi) thì không rõ / Câu hỏi liệu Sakura có đến hay không thì đối với tôi không rõ ràng. (Sakura come (question), not clear / The question of whether Sakura will come is not clear to me.)</code>
 
-In English, <code>I don't know if Sakura's coming.</code> Now, we can use this as part of an actual question.
+Trong tiếng Anh, <code>I don't know if Sakura's coming.</code> Bây giờ, chúng ta có thể sử dụng điều này như một phần của một câu hỏi thực sự.
 
-We might say <code>さくらが来るか知っていますか.</code> Now, if we ask that in です/ます form, as I just did, we use a second -か at the end to mark the actual question.
+Chúng ta có thể nói <code>さくらが来るか知っていますか.</code> Bây giờ, nếu chúng ta hỏi điều đó ở dạng です/ます, như tôi vừa làm, chúng ta sử dụng một chữ -か thứ hai ở cuối để đánh dấu câu hỏi thực sự.
 
-So we're saying <code>The question of whether Sakura will come, do you know?</code> And we should notice here that what's happening is, first of all, the -か is turning the proposition, the question, into something noun-like which we can then use as the basis of a new sentence.
+Vì vậy chúng ta đang nói <code>Câu hỏi liệu Sakura có đến hay không, bạn có biết không? (The question of whether Sakura will come, do you know?)</code> Và chúng ta nên chú ý ở đây rằng điều đang xảy ra là, trước hết, chữ -か đang biến mệnh đề, câu hỏi, thành một thứ giống như danh từ mà sau đó chúng ta có thể sử dụng làm cơ sở của một câu mới.
 
 ![](../media/image1105.webp)
 
-So that's the first thing we need to notice, and the second thing we need to notice is that -か displaces logical particles most of the time. So, normally when we say <code>わからない</code>, we say <code>(何-何)がわからない</code>; if we say <code>知ってる</code>, we say <code>(何-何)を知ってる</code>; but in this case the -か particle displaces the normal logical particle.
+Vì vậy đó là điều đầu tiên chúng ta cần chú ý, và điều thứ hai chúng ta cần chú ý là -か thay thế các trợ từ logic trong hầu hết các trường hợp. Vì vậy, thông thường khi chúng ta nói <code>わからない</code>, chúng ta nói <code>(何-何)がわからない</code>; nếu chúng ta nói <code>知ってる</code>, chúng ta nói <code>(何-何)を知ってる</code>; nhưng trong trường hợp này, trợ từ -か thay thế trợ từ logic thông thường.
 
 ![](../media/image675.webp)
 
-So we say <code>さくらが来るかわからない</code> not <code>さくらが来るかがわからない.</code> So <code>さくらが来るか</code> is a noun-like entity which, because it ends in -か, doesn't need to take the usual logical particle.
+Vì vậy chúng ta nói <code>さくらが来るかわからない</code> chứ không phải <code>さくらが来るかがわからない.</code> Vì vậy <code>さくらが来るか</code> là một thực thể giống như danh từ mà, bởi vì nó kết thúc bằng -か, nó không cần phải nhận trợ từ logic thông thường.
 
 ## かどうか
 
-Now, it also gets used in the common expression <code>かどうか</code>. And although we can learn this as a glued-together expression meaning <code>whether or not</code>, so <code>さくらが来るかどうかわからない</code> means <code>I don't know whether Sakura's coming or not,</code> (in English that's how we'd say it, as opposed to <code>さくらが来るかわからない</code> — in English we'd say <code>I don't know if Sakura's coming</code>; <code>さくらが来るかどうかわからない</code> – we'd say in English <code>I don't know whether Sakura's coming or not.</code>)
+Bây giờ, nó cũng được sử dụng trong cách diễn đạt phổ biến <code>かどうか</code>. Và mặc dù chúng ta có thể học đây như một cách diễn đạt gắn liền với nhau có nghĩa là <code>liệu có... hay không (whether or not)</code>, nên <code>さくらが来るかどうかわからない</code> có nghĩa là <code>Tôi không biết liệu Sakura có đến hay không (I don't know whether Sakura's coming or not)</code> (trong tiếng Anh đó là cách chúng ta sẽ nói, trái ngược với <code>さくらが来るかわからない</code> — trong tiếng Anh chúng ta sẽ nói <code>I don't know if Sakura's coming</code>; còn <code>さくらが来るかどうかわからない</code> – chúng ta sẽ nói trong tiếng Anh là <code>I don't know whether Sakura's coming or not.</code>)
 
-what we're literally saying here is <code>Sakura coming (question) how (question) わからない.</code> So what we're saying is something like <code>I don't know if Sakura's coming or how it will be.</code> And from this we can see how we get the use of -か to mean <code>or</code> between nouns.
+những gì chúng ta đang nói theo nghĩa đen ở đây là <code>Sakura đến (câu hỏi) thế nào (câu hỏi) わからない. (Sakura coming (question) how (question) わからない.)</code> Vì vậy những gì chúng ta đang nói giống như là <code>Tôi không biết liệu Sakura có đến không hay là sẽ như thế nào. (I don't know if Sakura's coming or how it will be.)</code> Và từ đây chúng ta có thể thấy làm thế nào chúng ta có được cách sử dụng của -か với ý nghĩa <code>hoặc (or)</code> giữa các danh từ.
 
-So we can say <code>お茶かコーヒーどちらがいい?</code> — <code>Tea or coffee, which would you like?</code> Now, how is this working?
+Vì vậy chúng ta có thể nói <code>お茶かコーヒーどちらがいい?</code> — <code>Trà hay cà phê, bạn muốn cái nào? (Tea or coffee, which would you like?)</code> Bây giờ, điều này đang hoạt động như thế nào?
 
-Well, essentially this is an abbreviation of <code>お茶かコーヒーかどちらがいい?</code> So, we're putting two propositions side by side, <code>whether coffee or whether tea,</code> and then asking <code>どちらがいい?</code>
+Chà, về cơ bản đây là từ viết tắt của <code>お茶かコーヒーかどちらがいい?</code> Vì vậy, chúng ta đang đặt hai mệnh đề cạnh nhau, <code>liệu có cà phê hay liệu có trà,</code> và sau đó hỏi <code>どちらがいい?</code>
 
-And once again although this seems like a different use, -か is doing the same thing — it's bundling something up as a proposition. But remember that when we use <code>or</code> in English it's always got to be a question.
+Và một lần nữa, mặc dù đây có vẻ như là một cách sử dụng khác, -か đang làm cùng một việc — nó đang gộp một cái gì đó lại thành một mệnh đề. Nhưng hãy nhớ rằng khi chúng ta sử dụng <code>hoặc (or)</code> trong tiếng Anh, nó luôn phải là một câu hỏi.
 
-It's never a certainty. If we say <code>A or B</code> we're saying it might be A and it might be B.
+Nó không bao giờ là một điều chắc chắn. Nếu chúng ta nói <code>A hay B (A or B)</code>, chúng ta đang nói nó có thể là A và nó có thể là B.
 
-If we say <code>A and B</code>, we know what we're talking about. We know that both A and B exist or do whatever it is that we're saying.
+Nếu chúng ta nói <code>A và B (A and B)</code>, chúng ta biết chúng ta đang nói về điều gì. Chúng ta biết rằng cả A và B đều tồn tại hoặc thực hiện bất cứ hành động nào mà chúng ta đang nói tới.
 
-But if we say <code>A or B</code>, we don't know whether it's A or whether it's B. We know it's one of them.
+Nhưng nếu chúng ta nói <code>A hay B</code>, chúng ta không biết nó là A hay nó là B. Chúng ta biết nó là một trong hai.
 
-So, again this -か, this questioning-whether particle, is continuing to use that function of marking a possibility, a question, something that might happen or might not happen, might be there or might not be there.
+Vì vậy, một lần nữa chữ -か này, trợ từ đặt câu hỏi <code>liệu có...</code> này, đang tiếp tục sử dụng chức năng đó của việc đánh dấu một khả năng, một câu hỏi, một điều gì đó có thể xảy ra hoặc có thể không xảy ra, có thể ở đó hoặc có thể không ở đó.
 
 ## かも知れない
 
-Now, we see this at work, for example, in <code>かも知れない</code>.
+Bây giờ, chúng ta thấy điều này đang hoạt động, ví dụ, trong <code>かも知れない</code>.
 
 ![](../media/image720.webp)
 
-Now, this is taught as if it were a word or expression that means <code>maybe</code>. And it is, but teaching it as a lump like that, as I've explained in another video, is misleading.
+Bây giờ, nó được dạy như thể nó là một từ hoặc cách diễn đạt có nghĩa là <code>có thể (maybe)</code>. Và đúng là vậy, nhưng việc dạy nó như một cụm khối như thế, như tôi đã giải thích trong một video khác, là gây hiểu lầm.
 
-The point of that misleadingness that I would like to talk about here is that it confuses us about what that -か is actually doing. That -か is attached to the proposition that we are talking about.
+Điểm gây hiểu lầm đó mà tôi muốn nói đến ở đây là nó làm chúng ta bối rối về việc chữ -か đó thực sự đang làm gì. Chữ -か đó được gắn vào mệnh đề mà chúng ta đang nói đến.
 
-So, if we say <code>さくらが来るかも知れない</code> — <code>Perhaps Sakura will come</code> — what we're saying is <code>さくらが来るか</code>, that's the question or proposition that we're talking about, and then <code>も知れない.</code> The も is giving us the meaning of <code>even</code> or <code>as much as</code>, as I've explained that it very often does, and <code>知れない</code> is <code>知る</code> — <code>know</code> / <code>知れる</code> — <code>ability to know or be known</code> and the helper adjective <code>-ない</code>.
+Vì vậy, nếu chúng ta nói <code>さくらが来るかも知れない</code> — <code>Có lẽ Sakura sẽ đến (Perhaps Sakura will come)</code> — những gì chúng ta đang nói là <code>さくらが来るか</code>, đó là câu hỏi hoặc mệnh đề mà chúng ta đang nói đến, và sau đó <code>も知れない.</code> Chữ も đang cho chúng ta ý nghĩa của <code>thậm chí (even)</code> hoặc <code>tới mức (as much as)</code>, như tôi đã giải thích rằng nó rất hay có ý nghĩa này, và <code>知れない</code> là <code>知る</code> — <code>biết (know)</code> / <code>知れる</code> — <code>khả năng biết hoặc được biết</code> và tính từ bổ trợ <code>-ない</code>.
 
-So the whole thing actually means <code>さくらが来るか</code> — <code>the question of whether Sakura comes</code> – <code>も知れない</code> — <code>I can't go so far as to know / Maybe Sakura will come, maybe she won't.</code>
+Vì vậy toàn bộ cụm từ thực sự có nghĩa là <code>さくらが来るか</code> — <code>câu hỏi về việc liệu Sakura có đến không</code> – <code>も知れない</code> — <code>tôi không thể đi xa đến mức biết được / Có thể Sakura sẽ đến, có thể cô ấy sẽ không đến.</code>
 
 ## かな
 
-Similarly with <code>かな</code>, which is sometimes presented as a particle meaning <code>I wonder</code>, you see how this actually works.
+Tương tự với <code>かな</code>, đôi khi được trình bày như một trợ từ có nghĩa là <code>tôi tự hỏi (I wonder)</code>, bạn thấy cách này thực sự hoạt động như thế nào.
 
 ![](../media/image468.webp)
 
 ::: info
-in the video, there is a typo where the red line says が instead of か. I fixed it.
+trong video, có một lỗi đánh máy trong đó dòng màu đỏ nói が thay vì か. Tôi đã sửa nó.
 
 ![](../media/image301.webp)
 :::
 
 
-<code>か</code> is taking the proposition, so if we say <code>さくらが来るかな</code>, we're saying <code>さくらが来るか</code> — <code>the question of whether Sakura will come</code> — <code>な</code>. Now, <code>な</code>, as we've discussed in [**another video**](https://www.youtube.com/watch?v=IWEok4Ivfyc&ab_channel=OrganicJapanesewithCureDolly), is a marker that indicates addressing something to yourself.
+<code>か</code> đang nhận lấy mệnh đề, vì vậy nếu chúng আসতে nói <code>さくらが来るかな</code>, chúng ta đang nói <code>さくらが来るか</code> — <code>câu hỏi về việc liệu Sakura có đến không</code> — <code>な</code>. Bây giờ, <code>な</code>, như chúng ta đã thảo luận trong [**một video khác**](https://www.youtube.com/watch?v=IWEok4Ivfyc&ab_channel=OrganicJapanesewithCureDolly), là một dấu hiệu cho thấy việc bạn đang nói một điều gì đó với chính mình.
 
-So, you're saying <code>Will Sakura come?</code> addressing that to yourself. The way we would say that in English is "I wonder if Sakura will come / I am pondering the question of whether Sakura will come."
+Vì vậy, bạn đang nói <code>Sakura sẽ đến chứ?</code> và đang hướng câu hỏi đó cho chính mình. Cách chúng ta sẽ nói điều đó trong tiếng Anh là "Tôi tự hỏi liệu Sakura có đến không (I wonder if Sakura will come) / Tôi đang suy ngẫm về câu hỏi liệu Sakura có đến không."
 
-And while it's all right to learn things like <code>かな</code> and <code>かも知れない</code> as if they were what the textbooks say they are, lumps of grammar that you just have to memorize, it helps not only with those but with structure as a whole to understand what they're really doing. They're bundling something into a question, so a proposition becomes a question which is a noun-like entity which we can then add something like "do you know / I don't know / I can't be sure<code> or </code>I wonder (I'm addressing this question to myself)."
+Và mặc dù việc học những thứ như <code>かな</code> và <code>かも知れない</code> như thể chúng là những gì sách giáo khoa nói, tức là những khối ngữ pháp mà bạn chỉ cần ghi nhớ, là điều có thể chấp nhận được, nó không chỉ giúp ích với những thứ đó mà còn với cấu trúc như một tổng thể khi hiểu được những gì chúng thực sự đang làm. Chúng đang gộp một cái gì đó thành một câu hỏi, vì vậy một mệnh đề trở thành một câu hỏi là một thực thể giống như danh từ, mà sau đó chúng ta có thể thêm một cái gì đó như "bạn có biết không / tôi không biết / tôi không thể chắc chắn<code> hoặc </code>tôi tự hỏi (tôi đang đặt câu hỏi này cho chính mình)."
 
-Now, from this proposition-making quality and questioning quality of -か, we get expressions such as one which we discussed in a previous video, <code>まるでゆうれいを見たかのような顔.</code>
+Bây giờ, từ tính chất tạo-mệnh-đề và tính chất đặt câu hỏi này của -か, chúng ta có các cách diễn đạt như một trong số đó chúng ta đã thảo luận trong một video trước đó, <code>まるでゆうれいを見たかのような顔.</code>
 
 ![](../media/image92.webp)
 
-Now, that means <code>a face as if one had seen a ghost.</code> So what's the -か doing here?
+Bây giờ, điều đó có nghĩa là <code>một khuôn mặt như thể ai đó vừa nhìn thấy ma. (a face as if one had seen a ghost.)</code> Vậy -か đang làm gì ở đây?
 
-It's doing the same thing as before. It's marking <code>ゆうれいを見た</code> as a question, a proposition, a thing that's not certain, in fact in this particular case, a thing that hasn't happened: we're not saying that the person HAS seen a ghost, we're only saying that she had a face AS IF she had seen a ghost.
+Nó đang làm điều tương tự như trước. Nó đang đánh dấu <code>ゆうれいを見た</code> như một câu hỏi, một mệnh đề, một thứ không chắc chắn, thực tế trong trường hợp cụ thể này, một điều chưa từng xảy ra: chúng ta không nói rằng người đó ĐÃ nhìn thấy một con ma, chúng ta chỉ nói rằng cô ấy có một khuôn mặt NHƯ THỂ cô ấy đã nhìn thấy một con ma.
 
-So we're marking the proposition that she'd seen a ghost as a question and then continuing to comment on it, and in this case we actually are attaching a logical particle, the logical particle の, to the か-marked noun-like entity that we have made of the proposition that she is seeing a ghost.
+Vì vậy chúng ta đang đánh dấu mệnh đề rằng cô ấy đã nhìn thấy ma như một câu hỏi và sau đó tiếp tục bình luận về nó, và trong trường hợp này thực tế chúng ta đang đính kèm một trợ từ logic, trợ từ logic の, vào thực thể giống như danh từ được đánh dấu bằng か mà chúng ta đã tạo ra từ mệnh đề rằng cô ấy đã nhìn thấy ma.
 
 ![](../media/image211.webp)
 
-So with a の-particle, unlike the が and を-particle, we can attach this to a か-marked entity. Now, there is another use of -か, which is a little different but still closely related to its question-making quality.
+Vì vậy với trợ từ の, không giống như trợ từ が và を, chúng ta có thể đính kèm nó vào một thực thể được đánh dấu bằng か. Bây giờ, có một cách sử dụng khác của -か, hơi khác một chút nhưng vẫn có mối liên hệ chặt chẽ với đặc tính tạo câu hỏi của nó.
 
 ## もんか/ものか
 
-And that is in certain expressions where it negativizes what we're talking about.
+Và đó là trong một số cách diễn đạt mà nó phủ định lại những gì chúng ta đang nói đến.
 
 ![](../media/image57.webp)
 
-An example of this that you've probably come across if you've been watching anime or reading manga is <code>もんか</code>. And that's short for <code>ものか</code>, and it can be used in more formal speech, in which case we say <code>ものですか</code>.
+Một ví dụ về điều này mà bạn có thể đã bắt gặp nếu bạn đang xem anime hoặc đọc manga là <code>もんか</code>. Và đó là cách viết ngắn gọn của <code>ものか</code>, và nó có thể được sử dụng trong cách nói trang trọng hơn, trong trường hợp đó chúng ta nói <code>ものですか</code>.
 
-So, if I were to say <code>そちらへ行くものですか,</code> I'm saying <code>I won't go there / I'm not going there.</code> If I say <code>さくらが来るものですか,</code> I'm saying "Sakura is not coming / She won't come / There's no likelihood of her coming."
+Vì vậy, nếu tôi nói <code>そちらへ行くものですか,</code> tôi đang nói <code>Tôi sẽ không đến đó / Tôi không định đến đó. (I won't go there / I'm not going there.)</code> Nếu tôi nói <code>さくらが来るものですか,</code> tôi đang nói "Sakura không đến / Cô ấy sẽ không đến / Không có khả năng nào cho việc cô ấy đến cả."
 
-What does <code>ものですか</code> mean? It means literally <code>Is that a thing?</code>
+<code>ものですか</code> có nghĩa là gì? Nghĩa đen của nó là <code>Đó có phải là một sự việc (để mà xảy ra) không? (Is that a thing?)</code>
 
-So, it's a question, but it's the kind of negativizing question that we also get in English when we say things like <code>Do you think I'm going to do that?</code> or <code>Would I do that?</code> or <code>How likely is that?</code>
+Vì vậy, nó là một câu hỏi, nhưng nó là kiểu câu hỏi mang tính phủ định mà chúng ta cũng có trong tiếng Anh khi chúng ta nói những thứ như <code>Do you think I'm going to do that? (Bạn có nghĩ rằng tôi sẽ làm điều đó không?)</code> hay <code>Would I do that? (Tôi sẽ làm điều đó ư?)</code> hay <code>How likely is that? (Khả năng điều đó xảy ra là bao nhiêu?)</code>
 
-In all those cases, by turning something into a question we're denying its likelihood. Now, when we say <code>ものか</code> it's the same thing, and it often gets reduced right down to <code>もんか</code>.
+Trong tất cả những trường hợp đó, bằng cách biến một thứ gì đó thành một câu hỏi, chúng ta đang phủ nhận khả năng xảy ra của nó. Bây giờ, khi chúng ta nói <code>ものか</code>, nó cũng là một thứ tương tự, và nó thường được rút gọn thành <code>もんか</code>.
 
-So someone might say <code>それを食べるもんか</code> — <code>I'm not eating that.</code> And you notice here that we are in fact using the か marker after a regular non-formal sentence, and that's because <code>もんか</code> or <code>ものか</code> is in fact rather a rough way of talking.
+Vì vậy ai đó có thể nói <code>それを食べるもんか</code> — <code>Tôi không ăn thứ đó đâu.</code> Và bạn nhận thấy ở đây rằng chúng ta thực tế đang sử dụng dấu hiệu か sau một câu thông thường, không trang trọng, và đó là vì <code>もんか</code> hay <code>ものか</code> thực tế là một cách nói khá thô lỗ.
 
-You're denying something very forcefully and often in opposition to somebody.
+Bạn đang phủ nhận điều gì đó rất mạnh mẽ và thường là để đối lập với ai đó.
 
 ## どころか
 
-Another place where we often see -か as a negativizing question marker is in <code>どころか</code>. Now, <code>どころ</code> is a form of <code>ところ</code>, which we talked about in a recent lesson, didn't we?<sup>[[36]](./36-所-the-concept-of-place.md)</sup>
+Một nơi khác mà chúng ta thường thấy -か như một dấu hiệu câu hỏi mang tính phủ định là trong <code>どころか</code>. Bây giờ, <code>どころ</code> là một dạng của <code>ところ</code>, thứ mà chúng ta đã nói đến trong một bài học gần đây, phải không?<sup>[[36]](./36-所-the-concept-of-place.md)</sup>
 
 ![](../media/image663.webp)
 
-<code>ところ</code> can mean not just <code>place</code> in the literal sense, but a time or a circumstance or condition. When it's said as <code>どころ</code> it's usually negative, so when we say <code>どころか</code>, we're negativizing what came before it and usually putting an even stronger negative after it.
+<code>ところ</code> có thể có nghĩa không chỉ là <code>nơi chốn (place)</code> theo nghĩa đen, mà còn là một thời điểm hoặc một hoàn cảnh hoặc điều kiện. Khi nó được nói là <code>どころ</code> nó thường mang tính phủ định, vì vậy khi chúng ta nói <code>どころか</code>, chúng ta đang phủ định những gì xuất hiện trước nó và thường đặt một sự phủ định thậm chí còn mạnh hơn sau nó.
 
-So if we say, for example, <code>漢字が読めるどころかひらがなも読めない</code> — <code>Not only can't I read kanji, I can't even read hiragana.</code>
+Vì vậy nếu chúng ta nói, ví dụ, <code>漢字が読めるどころかひらがなも読めない</code> — <code>Không những tôi không thể đọc kanji, mà tôi thậm chí còn không thể đọc hiragana.</code>
 
 ![](../media/image1131.webp)
 
-What's <code>どころか</code> doing here? Well, of course it's negativizing, just as we've already seen that it can, but it's also using the concept of place / <code>ところ</code>, that's to say, conceptual space rather than literal place.
+<code>どころか</code> đang làm gì ở đây? Chà, tất nhiên nó đang phủ định, giống như chúng ta đã thấy nó có thể làm, nhưng nó cũng đang sử dụng khái niệm về nơi chốn / <code>ところ</code>, tức là không gian khái niệm chứ không phải là địa điểm theo nghĩa đen.
 
-We're saying <code>Not only can't I go as far as reading kanji, I can't even get to the point of reading hiragana.</code> That's the metaphor that's being used here: not only has the situation not reached this far place, it hasn't even reached a nearer place than that.
+Chúng ta đang nói <code>Không những tôi không thể đi xa đến mức đọc được kanji, mà tôi thậm chí còn không thể đi đến điểm đọc được hiragana. (Not only can't I go as far as reading kanji, I can't even get to the point of reading hiragana.)</code> Đó là phép ẩn dụ đang được sử dụng ở đây: tình hình không những chưa đạt đến vị trí xa xôi này, nó thậm chí còn chưa đạt đến một vị trí gần hơn thế.
 
-So we see that while -か has a variety of meanings, all of them are closely connected to its ability to make a question and turn the question into a proposition, but never a proposition that exists in actuality, always a hypothetical condition…
+Vì vậy chúng ta thấy rằng mặc dù -か có nhiều ý nghĩa khác nhau, tất cả chúng đều liên quan chặt chẽ đến khả năng tạo thành câu hỏi và biến câu hỏi thành một mệnh đề, nhưng không bao giờ là một mệnh đề tồn tại trong thực tế, mà luôn là một điều kiện giả định…

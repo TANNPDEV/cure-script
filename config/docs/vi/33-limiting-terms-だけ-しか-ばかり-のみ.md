@@ -1,113 +1,113 @@
-# **33. Limiting terms: だけ, しか, ばかり, のみ**
+# **33. Các từ giới hạn: だけ, しか, ばかり, のみ**
 
 [**Lesson 33: Dake, shika, bakari, nomi: making SENSE of Japanese limiting terms.**](https://www.youtube.com/watch?v=OoJLexUR_o0&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=35&pp=iAQB)
 
 こんにちは。
 
-Today we're going to talk about terms of limitation: <code>だけ</code>, <code>しか</code>, <code>ばかり</code> (we're already covered <code>ばかり</code> in a video of its own, but we're going to look at how it fits in here) and <code>のみ</code>. <code>のみ</code> is very easy and you won't need to use it anyway, but it is important to understand it when you see it.
+Hôm nay chúng ta sẽ nói về các thuật ngữ mang tính giới hạn: <code>だけ</code>, <code>しか</code>, <code>ばかり</code> (chúng ta đã đề cập đến <code>ばかり</code> trong một video riêng của nó, nhưng chúng ta sẽ xem xét cách nó phù hợp ở đây) và <code>のみ</code>. <code>のみ</code> rất dễ và dù sao thì bạn cũng sẽ không cần sử dụng nó, nhưng điều quan trọng là phải hiểu nó khi bạn nhìn thấy nó.
 
-A lot of people find these terms confusing, but that's only because they're taught in a confusing way. Once you see how they really work, they're not difficult at all.
+Nhiều người thấy những thuật ngữ này khó hiểu, nhưng đó chỉ là vì chúng được dạy theo một cách khó hiểu. Một khi bạn thấy chúng thực sự hoạt động như thế nào, chúng hoàn toàn không khó.
 
 ## だけ
 
-So, let's start with the most basic word, <code>だけ</code>. <code>だけ</code> means <code>limit</code>. We're sometimes told that it means <code>only</code>, and in its most basic form of expression <code>only</code> is what we would say in English.
+Vậy, hãy bắt đầu với từ cơ bản nhất, <code>だけ</code>. <code>だけ</code> có nghĩa là <code>giới hạn (limit)</code>. Đôi khi chúng ta được cho biết rằng nó có nghĩa là <code>chỉ (only)</code>, và ở dạng diễn đạt cơ bản nhất, <code>chỉ (only)</code> là những gì chúng ta sẽ nói trong tiếng Anh.
 
-However, it's important in some of its other uses to realize that what it actually means is <code>limit</code>. So, if I say <code>千円だけ持っている</code>, what I'm saying is "I have a thousand yen limit / A thousand yen is the limit of what I have".
+Tuy nhiên, trong một số cách sử dụng khác của nó, điều quan trọng là phải nhận ra rằng những gì nó thực sự có nghĩa là <code>giới hạn</code>. Vì vậy, nếu tôi nói <code>千円だけ持っている</code>, những gì tôi đang nói là "Tôi có giới hạn là một nghìn yên / Một nghìn yên là giới hạn của những gì tôi có".
 
 ![](../media/image706.webp)
 
-<code>だけ</code> is a noun, and when we put <code>千円</code> behind it, we're using <code>千円</code> as the modifier to the noun <code>だけ</code>.
+<code>だけ</code> là một danh từ, và khi chúng ta đặt <code>千円</code> phía sau nó, chúng ta đang sử dụng <code>千円</code> làm từ bổ nghĩa cho danh từ <code>だけ</code>.
 
 ![](../media/image766.webp)
 
-So we're saying I have a limit of a thousand yen, a thousand yen is all I have. So that's simple enough. We'll come back to <code>だけ</code> in a moment.
+Vì vậy chúng ta đang nói rằng tôi có giới hạn là một nghìn yên, một nghìn yên là tất cả những gì tôi có. Như vậy là đủ đơn giản. Chúng ta sẽ quay lại với <code>だけ</code> trong giây lát.
 
-Now let's look at <code>しか</code>.
+Bây giờ chúng ta hãy xem xét <code>しか</code>.
 
 ## しか
 
-Now, <code>しか</code> does confuse people and that's because they're given the impression that it means the same thing, more or less, as <code>だけ</code>. And what it in fact means is the opposite of <code>だけ</code>.
+Bây giờ, <code>しか</code> làm mọi người bối rối và đó là bởi vì họ có ấn tượng rằng nó có ý nghĩa tương tự, ít nhiều, với <code>だけ</code>. Và những gì thực sự có ý nghĩa lại là điều ngược lại với <code>だけ</code>.
 
-<code>しか</code> means <code>more than</code>.
+<code>しか</code> có nghĩa là <code>nhiều hơn (more than)</code>.
 
 ![](../media/image374.webp)
 
-And if we understand that, we'll never get confused about <code>しか</code> because it's very simple. The point is that it's only ever used in negative sentences. So, we always have a <code>ない</code> or an <code>ありません</code> when we use <code>しか</code>, so it ends up saying <code>not more than</code>.
+Và nếu chúng ta hiểu điều đó, chúng ta sẽ không bao giờ nhầm lẫn về <code>しか</code> bởi vì nó rất đơn giản. Vấn đề là nó chỉ được sử dụng trong các câu phủ định. Vì vậy, chúng ta luôn có <code>ない</code> hoặc <code>ありません</code> khi chúng ta sử dụng <code>しか</code>, vì vậy cuối cùng nó mang nghĩa là <code>không nhiều hơn (not more than)</code>.
 
-And this is what makes it very similar to <code>だけ</code>. But if we don't realize that it actually means <code>more than</code>, we get very confused about how it fits into a sentence structurally.
+Và đây là điều làm cho nó rất giống với <code>だけ</code>. Nhưng nếu chúng ta không nhận ra rằng nó thực sự có nghĩa là <code>nhiều hơn (more than)</code>, chúng ta sẽ rất bối rối về việc làm thế nào nó phù hợp với một câu về mặt cấu trúc.
 
-So, if we say <code>千円だけ持っている</code>, we're saying a thousand yen is the limit of what I have. If we say <code>千円しか持っていない</code>, we're saying I don't have any more than a thousand yen. And as you can see this is a negative sentence and the stress is on the negative.
+Vì vậy, nếu chúng ta nói <code>千円だけ持っている</code>, chúng chúng ta đang nói một nghìn yên là giới hạn của những gì tôi có. Nếu chúng ta nói <code>千円しか持っていない</code>, chúng ta đang nói Tôi không có nhiều hơn một nghìn yên. Và như bạn thấy, đây là một câu phủ định và sự nhấn mạnh nằm ở phần phủ định.
 
-It's very similar to what we might say in English: we might say <code>I only have a thousand yen</code> / *(<code>千円だけ持っている</code>)* or we might say <code>I don't have any more than a thousand yen</code> / *(<code>千円しか持っていない</code>)*. And you can see the difference between those two, and the difference is exactly the same in Japanese.
+Nó rất giống với những gì chúng ta có thể nói trong tiếng Anh: chúng ta có thể nói <code>Tôi chỉ có một nghìn yên (I only have a thousand yen)</code> / *(<code>千円だけ持っている</code>)* hoặc chúng ta có thể nói <code>Tôi không có nhiều hơn một nghìn yên (I don't have any more than a thousand yen)</code> / *(<code>千円しか持っていない</code>)*. Và bạn có thể thấy sự khác biệt giữa hai câu đó, và sự khác biệt cũng chính xác giống như vậy trong tiếng Nhật.
 
-<code>だけ</code> doesn't imply that a thousand yen is a lot or a little; it doesn't imply anything about it, it's just saying that that's what I have and that's all I have. <code>I don't have any more than a thousand yen/*千円しか持っていない*</code> is putting emphasis on the fact that this might be too little, or that if you were wanting any more you're not going to get it, or whatever.
+<code>だけ</code> không ngụ ý rằng một nghìn yên là nhiều hay ít; nó không ngụ ý bất cứ điều gì về nó, nó chỉ đang nói rằng đó là những gì tôi có và đó là tất cả những gì tôi có. <code>Tôi không có nhiều hơn một nghìn yên / 千円しか持っていない</code> đang nhấn mạnh vào thực tế rằng số tiền này có thể là quá ít, hoặc nếu bạn muốn nhiều hơn, bạn sẽ không nhận được nó, hoặc bất cứ điều gì tương tự.
 
-It has this negative emphasis because we're putting all the emphasis on what I don't have, not what I do have. And that, in this context, is the difference between <code>だけ</code> and <code>しか... ない</code>.
+Nó có sự nhấn mạnh phủ định này bởi vì chúng ta đang dồn mọi sự nhấn mạnh vào những gì tôi không có, chứ không phải những gì tôi có. Và đó, trong ngữ cảnh này, là sự khác biệt giữa <code>だけ</code> và <code>しか... ない</code>.
 
-And <code>しか... ない</code> can also be used in circumstances such as <code>にげるしかない</code>. <code>にげる/*逃げる*</code> is to <code>run away</code> or <code>escape</code>; if we say <code>にげるしかない</code> we're saying <code>There's nothing for it but to run / There's no other course of action but to run.</code>
+Và <code>しか... ない</code> cũng có thể được sử dụng trong những trường hợp như <code>にげるしかない</code>. <code>にげる/逃げる</code> là <code>chạy trốn</code> hoặc <code>trốn thoát</code>; nếu chúng ta nói <code>にげるしかない</code> chúng ta đang nói <code>Không có cách nào khác ngoài việc chạy trốn / Không có hướng hành động nào khác ngoài việc chạy trốn.</code>
 
-So just as <code>千円しかない</code> means (I) have nothing more than a thousand yen, <code>にげるしかない</code> means there's nothing we can do other than — or more than — run. So now let's go back to some of the other uses of <code>だけ</code>.
+Vì vậy, giống như <code>千円しかない</code> có nghĩa là (Tôi) không có gì nhiều hơn một ngàn yên, <code>にげるしかない</code> có nghĩa là không có gì chúng ta có thể làm ngoài - hoặc nhiều hơn - việc bỏ chạy. Vì vậy bây giờ chúng ta hãy quay lại với một số cách sử dụng khác của <code>だけ</code>.
 
-## Other uses of だけ
+## Các cách sử dụng khác của だけ
 
-One of the commonest is <code>できるだけ</code>, which means <code>as much as possible</code> or <code>if at all possible</code>. Now, you see, at this point, if we're thinking of <code>だけ</code> as meaning <code>only</code> we can start to get confused.
+Một trong những cách phổ biến nhất là <code>できるだけ</code>, có nghĩa là <code>càng nhiều càng tốt (as much as possible)</code> hoặc <code>nếu có thể (if at all possible)</code>. Bây giờ, bạn thấy đấy, tại thời điểm này, nếu chúng ta nghĩ <code>だけ</code> có nghĩa là <code>chỉ (only)</code>, chúng ta có thể bắt đầu bối rối.
 
-Is this a completely different kind of <code>だけ</code>? No, it's exactly the same. <code>できるだけ</code> means <code>to the limit of possibility</code>.
+Đây có phải là một loại <code>だけ</code> hoàn toàn khác không? Không, nó hoàn toàn giống nhau. <code>できるだけ</code> có nghĩa là <code>đến giới hạn của khả năng (to the limit of possibility)</code>.
 
-<code>できるだけ勉強します</code> — <code>I will study if I can</code> or <code>I will study as much as I can</code> / <code>to the limit of the possibility I will study.</code>
+<code>できるだけ勉強します</code> — <code>Tôi sẽ học nếu tôi có thể</code> hoặc <code>Tôi sẽ học nhiều nhất có thể</code> / <code>đến giới hạn của khả năng, tôi sẽ học.</code>
 
 ![](../media/image837.webp)
 
 ::: info
-In case someone may have been wondering…
+Phòng trường hợp có ai đó đang tự hỏi…
 :::
 
-Another use which you'll certainly see quite often is <code>だけあって</code>. Now this <code>あって</code> is <code>ある</code> — to <code>be</code>. And we're often told that it means something like <code>not for nothing</code>.
+Một cách sử dụng khác mà bạn chắc chắn sẽ thấy khá thường xuyên là <code>だけあって</code>. Bây giờ <code>あって</code> này là <code>ある</code> — <code>tồn tại/có (be)</code>. Và chúng ta thường được bảo rằng nó có ý nghĩa đại loại như <code>không uổng công (not for nothing)</code>.
 
-So <code>留学しただけあって英語はうまい</code>.
+Vậy <code>留学しただけあって英語はうまい</code>.
 
 ![](../media/image667.webp)
 
-And this literally means <code>Because of the limit of the fact that she studied abroad...</code> (and the <code>because</code> here is that て-form, which often implies the cause of the following effect) <code>... her English is excellent.</code> Now the translation we're given is <code>Not for nothing did she study abroad, her English is excellent.</code>
+Và theo nghĩa đen, điều này có nghĩa là <code>Bởi vì giới hạn của thực tế là cô ấy đã đi du học...</code> (và chữ <code>bởi vì</code> ở đây là dạng て, thường ngụ ý nguyên nhân của hậu quả kéo theo) <code>... tiếng Anh của cô ấy rất xuất sắc.</code> Bây giờ bản dịch mà chúng ta được cung cấp là <code>Không uổng công cô ấy đã đi du học, tiếng Anh của cô ấy rất xuất sắc.</code>
 
-But what is actually being said here is <code>Precisely because and only because she studied abroad, her English is excellent.</code> Now, you might think I'm splitting hairs here and being a bit too geeky about the exact meaning.
+Nhưng những gì thực sự đang được nói ở đây là <code>Chính xác là vì và chỉ vì cô ấy đã đi du học, nên tiếng Anh của cô ấy rất xuất sắc.</code> Bây giờ, bạn có thể nghĩ rằng tôi đang chẻ sợi tóc làm tư ở đây và hơi quá ám ảnh (geeky) về ý nghĩa chính xác.
 
-But let's take another example. <code>安いだけあってすぐに壊れちゃった</code> Now, this means <code>Because of the limit of its being cheap, it quickly broke.</code>
+Nhưng hãy lấy một ví dụ khác. <code>安いだけあってすぐに壊れちゃった</code> Bây giờ, điều này có nghĩa là <code>Do giới hạn của việc nó rẻ tiền, nó đã nhanh chóng bị hỏng.</code>
 
-Now, it wouldn't make any sense here to say, would it, <code>Not for nothing was it cheap, it broke quickly.</code> What we're actually saying is <code>Precisely because it was cheap, it broke quickly.</code>
+Bây giờ, nó sẽ chẳng có ý nghĩa gì ở đây nếu nói rằng, phải không, <code>Không uổng công nó rẻ tiền, nó đã hỏng một cách nhanh chóng. (Not for nothing was it cheap, it broke quickly.)</code> Những gì chúng ta thực sự đang nói là <code>Chính xác là vì nó rẻ tiền, nó đã hỏng một cách nhanh chóng.</code>
 
 ![](../media/image274.webp)
 
-That <code>だけ</code> is using the limiting function to limit something down to something precise. If we want to bring in the <code>only</code> aspect of it, the way it works is that what we're saying is <code>Only by studying abroad would you get that good at English</code> <code>Only something really cheap would break that quickly.</code>
+Chữ <code>だけ</code> đó đang sử dụng chức năng giới hạn để giới hạn một cái gì đó xuống một thứ chính xác. Nếu chúng ta muốn đưa khía cạnh <code>chỉ (only)</code> của nó vào, cách nó hoạt động là những gì chúng ta đang nói là <code>Chỉ bằng cách đi du học, bạn mới có thể giỏi tiếng Anh như vậy</code> <code>Chỉ một thứ gì đó thực sự rẻ tiền mới hỏng nhanh như vậy.</code>
 
-So that's how the limitation, the <code>only</code>, function of <code>だけ</code> is actually working here. We're using it to give precision to the statement: <code>Precisely and only because of this the result followed</code>; <code>だけあって</code> — <code>It exists because of and limited to this fact.</code>
+Vì vậy, đó là cách mà chức năng giới hạn, chức năng <code>chỉ (only)</code>, của <code>だけ</code> thực sự hoạt động ở đây. Chúng ta đang sử dụng nó để mang lại sự chính xác cho câu nói: <code>Chính xác và chỉ vì điều này mà kết quả đã theo sau</code>; <code>だけあって</code> — <code>Nó tồn tại vì và bị giới hạn ở thực tế này.</code>
 
-Now let's bring in <code>ばかり</code>.
+Bây giờ chúng ta hãy mang <code>ばかり</code> vào.
 
 ## ばかり
 
-<code>ばかり</code>, as we know, also expresses the same kind of limits. It means <code>just such-and-such a thing</code>. So let's compare it with the other two.
+<code>ばかり</code>, như chúng ta biết, cũng thể hiện cùng một loại giới hạn. Nó có nghĩa là <code>chỉ một điều này nọ (just such-and-such a thing)</code>. Vì vậy, hãy so sánh nó với hai từ còn lại.
 
-If we say <code>あのお店はパンだけ売る</code>, we're saying <code>That shop only sells bread</code>. If we say <code>あのお店はパンしか売らない</code>, we're saying <code>That shop doesn't sell anything but bread</code>.
+Nếu chúng ta nói <code>あのお店はパンだけ売る</code>, chúng ta đang nói <code>Cửa hàng đó chỉ bán bánh mì</code>. Nếu chúng ta nói <code>あのお店はパンしか売らない</code>, chúng ta đang nói <code>Cửa hàng đó không bán thứ gì ngoài bánh mì</code>.
 
-If we say <code>あのお店はパンばかり売る</code>, we're again saying <code>That shop only sells bread</code> but as we know from the <code>ばかり</code> lesson, what we're likely to mean by that is <code>That shop sells an awful lot of bread</code>. It may not even be true that it only sells bread, because <code>ばかり</code> can be used hyperbolically.
+Nếu chúng ta nói <code>あのお店はパンばかり売る</code>, chúng ta lại đang nói <code>Cửa hàng đó chỉ bán bánh mì</code> nhưng như chúng ta biết từ bài học <code>ばかり</code>, ý mà chúng ta có khả năng muốn nói ở đây là <code>Cửa hàng đó bán một số lượng bánh mì khổng lồ</code>. Thậm chí có thể không đúng khi nói rằng nó chỉ bán bánh mì, bởi vì <code>ばかり</code> có thể được sử dụng một cách cường điệu.
 
-We can say <code>東京は外人ばかりだ</code> — <code>In Tokyo there's nothing but foreigners</code> which doesn't mean, any more than it would in English, that there really aren't any Japanese people in Tokyo. It means there are an awful lot of foreigners in Tokyo. So, we can put these three on a sliding scale.
+Chúng ta có thể nói <code>東京は外人ばかりだ</code> — <code>Ở Tokyo không có gì ngoài người nước ngoài</code> điều đó không có nghĩa là, nhiều hơn những gì nó sẽ có trong tiếng Anh, rằng thực sự không có bất kỳ người Nhật nào ở Tokyo. Có nghĩa là có một lượng rất lớn người nước ngoài ở Tokyo. Vì vậy, chúng ta có thể đặt ba từ này vào một thang trượt.
 
 ![](../media/image770.webp)
 
-<code>パンしか売らない</code> is implying that only selling bread is very little, it's insufficient. Maybe we want something other than bread but we can't get it. <code>パンだけ売る</code> doesn't have any implication. It's neutral.
+<code>パンしか売らない</code> đang ngụ ý rằng chỉ bán bánh mì là rất ít, không đủ. Có lẽ chúng ta muốn một thứ gì đó ngoài bánh mì nhưng chúng ta không thể mua được. <code>パンだけ売る</code> không có bất kỳ ngụ ý nào. Nó trung lập.
 
-It could mean that the shop specializes in bread and therefore it's very good. It could mean, indeed, we can't get anything if we're wanting something other than bread. It doesn't have any particular implication. It's just neutrally saying that the shop only sells bread.
+Nó có thể có nghĩa là cửa hàng chuyên về bánh mì và do đó nó rất ngon. Thực sự nó có thể có nghĩa là chúng ta không thể mua được gì nếu chúng ta muốn thứ gì đó ngoài bánh mì. Nó không có bất kỳ hàm ý đặc biệt nào. Nó chỉ đang nói một cách trung lập rằng cửa hàng chỉ bán bánh mì.
 
-<code>パンばかり売る</code> implies that there's an awful lot of bread there. The fact that it's limited to bread is essentially making the point that bread is there in abundance to the extent that we might hyperbolically say that nothing else but bread is there even though with <code>ばかり</code> in fact it could be.
+<code>パンばかり売る</code> ngụ ý rằng có một số lượng bánh mì rất lớn ở đó. Thực tế là nó bị giới hạn ở bánh mì về cơ bản là để nhấn mạnh rằng bánh mì có mặt ở đó rất phong phú đến mức chúng ta có thể cường điệu nói rằng không có thứ gì khác ngoài bánh mì ở đó mặc dù với <code>ばかり</code> thì thực tế là có thể có.
 
 ## のみ
 
-And before we end, I'm just going to cover <code>のみ</code>. <code>のみ</code> is very easy because all it means is <code>だけ</code> in its simplest sense.
+Và trước khi kết thúc, tôi sẽ chỉ đề cập đến <code>のみ</code>. <code>のみ</code> rất dễ vì tất cả những gì nó có nghĩa là <code>だけ</code> theo nghĩa đơn giản nhất.
 
-So we say <code>パンだけ売る / パンのみ売る</code>. They both mean the same thing. They mean <code>only sells bread</code> without any special implication.
+Vì vậy, chúng ta nói <code>パンだけ売る / パンのみ売る</code>. Cả hai đều có nghĩa giống nhau. Chúng có nghĩa là <code>chỉ bán bánh mì</code> mà không có bất kỳ hàm ý đặc biệt nào.
 
-<code>のみ</code> is used in formal contexts, it's mostly used in writing, and unless you're trying to use very formal Japanese you won't really need to use it. The reason it's important to know is that, for example, if you were going to go into a place and the sign was telling you that only members are admitted it could save a lot of embarrassment if you knew that that <code>のみ</code> means the same thing as <code>だけ</code>.
+<code>のみ</code> được sử dụng trong các ngữ cảnh trang trọng, nó hầu như chỉ được dùng trong văn viết, và trừ khi bạn đang cố gắng sử dụng tiếng Nhật rất trang trọng, bạn sẽ không thực sự cần sử dụng nó. Lý do quan trọng để biết là, ví dụ, nếu bạn chuẩn bị đi vào một nơi và biển báo cho bạn biết rằng chỉ có thành viên mới được vào, nó có thể giúp bạn tránh được rất nhiều sự bối rối nếu bạn biết rằng chữ <code>のみ</code> đó có nghĩa giống hệt chữ <code>だけ</code>.
 
-And that kind of sign is precisely where they would use <code>のみ</code>, because it tends to get used in these formal, official kinds of context.
+Và loại biển báo đó chính xác là nơi họ sẽ sử dụng <code>のみ</code>, bởi vì nó có xu hướng được sử dụng trong các loại ngữ cảnh trang trọng, chính thức này.

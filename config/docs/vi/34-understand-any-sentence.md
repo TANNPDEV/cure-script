@@ -1,158 +1,158 @@
-# **34. Understand any sentence**
+# **34. Hiểu bất kỳ câu nào**
 
 [**Lesson 34: Understand any sentence. Powerful analysis technique.**](https://www.youtube.com/watch?v=uot49Z85wNs&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=36&pp=iAQB)
 
 こんにちは。
 
-Today we are going to discuss the most fundamental thing in Japanese. And, if we understand this, we can understand any Japanese sentence. If we don't, we can't. It's really as fundamental as that. And I introduced this in our very first lesson, because if we don't have this, we're going nowhere.
+Hôm nay chúng ta sẽ thảo luận về điều cơ bản nhất trong tiếng Nhật. Và, nếu chúng ta hiểu điều này, chúng ta có thể hiểu bất kỳ câu tiếng Nhật nào. Nếu chúng ta không, chúng ta sẽ không thể. Nó thực sự cơ bản như vậy đó. Và tôi đã giới thiệu điều này trong bài học đầu tiên của chúng ta, bởi vì nếu chúng ta không có nó, chúng ta sẽ không đi đến đâu cả.
 
-What we are going to do today is start talking about how we can apply this to any Japanese sentence that we find in the wild. Now, the fundamental core of Japanese, as you know, is the core Japanese sentence. It's what I call the A-car and the B-engine. Both of those elements have to be there in every sentence.
+Những gì chúng ta sẽ làm hôm nay là bắt đầu nói về cách chúng ta có thể áp dụng điều này cho bất kỳ câu tiếng Nhật nào mà chúng ta tìm thấy trong thực tế (in the wild). Bây giờ, cốt lõi cơ bản của tiếng Nhật, như bạn đã biết, là câu tiếng Nhật cốt lõi. Đó là những gì tôi gọi là Xe A (A-car) và Động cơ B (B-engine). Cả hai yếu tố đó đều phải có mặt trong mọi câu.
 
-We can always see the B-engine. We can't always see the A-car, but it's always there. In English these are called the subject and the predicate and in Japanese they are called the 主語/しゅご and 述語/じゅつご, but we are going to continue calling them the A-car and the B-engine because this way we can visualize exactly what's going on in a sentence by using trains.
+Chúng ta luôn có thể nhìn thấy Động cơ B. Chúng ta không phải lúc nào cũng có thể nhìn thấy Xe A, nhưng nó luôn ở đó. Trong tiếng Anh, chúng được gọi là chủ ngữ (subject) và vị ngữ (predicate) và trong tiếng Nhật, chúng được gọi là 主語/しゅご và 述語/じゅつご, nhưng chúng ta sẽ tiếp tục gọi chúng là Xe A và Động cơ B vì bằng cách này, chúng ta có thể hình dung chính xác những gì đang diễn ra trong một câu bằng cách sử dụng các đoàn tàu.
 
-Now this lesson begins with a question asked by my Gold Kokeshi patron Pantelis Chrysafis-sama (and I hope I'm pronouncing your name right). It was a very simple question, but a very good one, a very fundamental one. It was simply, <code>How do we know where a logical clause ends?</code>
+Bây giờ bài học này bắt đầu bằng một câu hỏi được đặt ra bởi người bảo trợ Gold Kokeshi của tôi, Pantelis Chrysafis-sama (và tôi hy vọng tôi phát âm đúng tên bạn). Đó là một câu hỏi rất đơn giản, nhưng rất hay, rất cơ bản. Đó đơn giản là, <code>Làm thế nào chúng ta biết được một mệnh đề logic kết thúc ở đâu?</code>
 
-And that's really the same as the question <code>How do we identify a logical clause?</code> We need to know where it ends and we need to know where it begins. The factors complicating this are that there can be more than one logical clause in a compound sentence (but as I'm going to demonstrate, that isn't really as difficult as it seems) and also the fact that we can't always see the A-car.
+Và điều đó thực sự giống như câu hỏi <code>Làm thế nào chúng ta nhận diện một mệnh đề logic?</code> Chúng ta cần biết nó kết thúc ở đâu và chúng ta cần biết nó bắt đầu từ đâu. Các yếu tố làm phức tạp vấn đề này là có thể có nhiều hơn một mệnh đề logic trong một câu ghép (nhưng như tôi sắp trình bày, điều đó không thực sự khó khăn như vẻ ngoài của nó) và cũng là thực tế rằng chúng ta không phải lúc nào cũng có thể nhìn thấy Xe A.
 
 ![](../media/image619.webp)
 
-The other complicating factor is the fact that we will see the elements of logical clauses and even complete logical clauses that are not part of the sentence core. And if they're not part of the sentence core, what they are doing is modifying or telling us more about either the A-car or the B-engine.
+Yếu tố gây phức tạp khác là thực tế rằng chúng ta sẽ thấy các thành phần của các mệnh đề logic và thậm chí là các mệnh đề logic hoàn chỉnh không phải là một phần của cốt lõi câu. Và nếu chúng không phải là một phần của cốt lõi câu, những gì chúng đang làm là bổ nghĩa hoặc cho chúng ta biết thêm về Xe A hoặc Động cơ B.
 
 ![](../media/image312.webp)
 
-That's the only thing they can ever be doing, because the sentence is its core and everything else in the sentence is related to and telling us more about that core. Now, sentences where there is more than one logical clause have to be connected by some kind of conjunction. And this is very important, because this gives us the key to seeing whether or not there is more than one core and if there is, where they are and how they're working.
+Đó là điều duy nhất chúng có thể làm, bởi vì câu chính là cốt lõi của nó và mọi thứ khác trong câu đều liên quan đến và cho chúng ta biết thêm về cốt lõi đó. Bây giờ, các câu có nhiều hơn một mệnh đề logic phải được kết nối bởi một loại liên từ nào đó. Và điều này rất quan trọng, bởi vì điều này cho chúng ta chìa khóa để xem liệu có nhiều hơn một cốt lõi hay không và nếu có, chúng ở đâu và chúng hoạt động như thế nào.
 
-In our recent series on conditionals, we were in fact dealing with conjunctions. There are various kinds of conjunction: and, but, when, if, etc.
+Trong loạt bài gần đây về câu điều kiện, thực ra chúng ta đã giải quyết các liên từ. Có nhiều loại liên từ khác nhau: và, nhưng, khi, nếu, v.v.
 
 ![](../media/image1044.webp)
 
-And the two other kinds of conjunctions that we need to look out for are the て-form, which can join two clauses together into a compound sentence, as we looked at in our first lesson on compound sentences<sup>[[11]](./11-compound-sentences-くれる-あげる-and-more-uses-of-the-て-form.md)</sup>, and the い-stem of a verb. You've seen how the い-stem is the main conjunctive stem out of the four stems of verbs.
+Và hai loại liên từ khác mà chúng ta cần chú ý là dạng て, có thể nối hai mệnh đề lại với nhau thành một câu ghép, như chúng ta đã xem xét trong bài học đầu tiên về câu ghép<sup>[[11]](./11-compound-sentences-くれる-あげる-and-more-uses-of-the-て-form.md)</sup>, và gốc い (い-stem) của một động từ. Bạn đã thấy gốc い là gốc liên kết chính trong bốn gốc của động từ như thế nào.
 
 ![](../media/image403.webp)
 
-It can connect nouns to verbs; it can connect other verbs to verbs; it can connect various helpers to verbs; and it can also connect one logical clause to another. This is slightly more literary, slightly more sophisticated, perhaps, than the て-form, but it's the one other thing you need to look out for when you're investigating whether there is more than one logical clause in a sentence. We'll talk about this more in a later lesson.
+Nó có thể kết nối danh từ với động từ; nó có thể kết nối các động từ khác với động từ; nó có thể kết nối các từ phụ trợ khác nhau với động từ; và nó cũng có thể kết nối một mệnh đề logic với một mệnh đề logic khác. Có lẽ nó hơi mang tính văn chương hơn một chút, phức tạp hơn một chút so với dạng て, nhưng đó là một điều khác bạn cần chú ý khi bạn đang điều tra xem liệu có nhiều hơn một mệnh đề logic trong một câu hay không. Chúng ta sẽ nói thêm về điều này trong một bài học sau.
 
-Now, let's talk about the complications that can arise and how we can see through them, how we can use our detective powers to see what's really going on. I'm going to take a simple conditional sentence that we used before. <code>かさを持って来ればよかった</code> which means "I should have taken an umbrella / I wish I'd taken an umbrella".
+Bây giờ, hãy nói về những phức tạp có thể phát sinh và cách chúng ta có thể nhìn thấu chúng, cách chúng ta có thể sử dụng khả năng thám tử của mình để xem điều gì thực sự đang diễn ra. Tôi sẽ lấy một câu điều kiện đơn giản mà chúng ta đã sử dụng trước đó. <code>かさを持って来ればよかった</code> có nghĩa là "Tôi lẽ ra nên mang theo ô / Giá như tôi mang theo ô".
 
-What it literally means is <code>If I had taken an umbrella, it would have been good.</code> Now, we can see the first logical clause easily, can't we? That is <code>かさを持って来れば</code>, which is simply <code>かさを持ってくる</code> — <code>bring an umbrella</code> — turned into its conditional form — <code>if I bring an umbrella</code> — and that's going to be thrown into the past tense by the final engine in the sentence, which is the way Japanese works.
+Theo nghĩa đen, nó có nghĩa là <code>Nếu tôi mang theo ô thì đã tốt rồi.</code> Bây giờ, chúng ta có thể nhìn thấy mệnh đề logic đầu tiên một cách dễ dàng, phải không? Đó là <code>かさを持って来れば</code>, đơn giản là <code>かさを持ってくる</code> — <code>mang theo ô</code> — được chuyển thành dạng điều kiện của nó — <code>nếu tôi mang theo ô</code> — và nó sẽ được đưa vào thì quá khứ bởi động cơ cuối cùng trong câu, đó là cách tiếng Nhật hoạt động.
 
-So, we have clause one, which is <code>かさを持って来れば</code>. We know that it's a complete clause and we know it's going to be followed by a second clause because we have a conjunction there in the form of a conditional. But what follows it is simply <code>よかった</code> which is the past tense of <code>いい</code> and it means <code>good</code>.
+Vì vậy, chúng ta có mệnh đề một, đó là <code>かさを持って来れば</code>. Chúng ta biết rằng nó là một mệnh đề hoàn chỉnh và chúng ta biết nó sẽ được theo sau bởi một mệnh đề thứ hai vì chúng ta có một liên từ ở đó dưới dạng câu điều kiện. Nhưng cái theo sau nó chỉ đơn giản là <code>よかった</code> là thì quá khứ của <code>いい</code> và nó có nghĩa là <code>tốt (good)</code>.
 
-Is this a core sentence? Yes, it is. The first sentence is <code>かさを持ってくれば</code> ; the second sentence is <code>(zeroが)よかった</code>. We know this because <code>よかった</code> is an engine.
+Đây có phải là một câu cốt lõi không? Đúng vậy. Mệnh đề đầu tiên là <code>かさを持ってくれば</code> ; mệnh đề thứ hai là <code>(zeroが)よかった</code>. Chúng ta biết điều này bởi vì <code>よかった</code> là một động cơ.
 
 ![](../media/image526.webp)
 
-It's an adjective, it's a describing word and it has to be describing something. Wherever you've got an adjective, the adjective must be describing something. Wherever you've got a B-engine, there must be an A-car to correspond to it.
+Nó là một tính từ, nó là một từ miêu tả và nó phải đang miêu tả một cái gì đó. Bất cứ nơi nào bạn có một tính từ, tính từ đó phải đang miêu tả một cái gì đó. Bất cứ nơi nào bạn có một Động cơ B, phải có một Xe A tương ứng với nó.
 
-So what is the A-car here? What is <code>よかった</code> describing? What is it telling us <code>would have been good</code>? This is a very important point.
+Vậy Xe A ở đây là gì? <code>よかった</code> đang miêu tả cái gì? Nó đang cho chúng ta biết điều gì <code>đã có thể tốt (would have been good)</code>? Đây là một điểm rất quan trọng.
 
-If we translate it into very literal English, what we're saying is "If I had brought an umbrella, it would have been good." And this is exactly what the Japanese means. <code>It</code> would have been good. The A-car is <code>it</code>.
+Nếu chúng ta dịch nó sang tiếng Anh rất bám sát nghĩa đen, những gì chúng ta đang nói là "Nếu tôi mang theo một chiếc ô, điều đó (it) sẽ tốt." Và đây chính xác là ý nghĩa của tiếng Nhật. <code>Điều đó (It)</code> sẽ tốt. Xe A là <code>điều đó (it)</code>.
 
-So what is <code>it</code>? This is the important point: <code>It</code>, or the zero-car, does not have to be clearly definable, either in English or in Japanese. What <code>it</code> means here is <code>the circumstance / things in general (would have been good)</code>.
+Vậy <code>điều đó (it)</code> là gì? Đây là điểm quan trọng: <code>Điều đó</code>, hoặc xe zero, không cần phải được xác định rõ ràng, dù là trong tiếng Anh hay tiếng Nhật. Những gì <code>điều đó</code> có nghĩa ở đây là <code>hoàn cảnh / sự việc nói chung (sẽ tốt) (the circumstance / things in general (would have been good))</code>.
 
-And we do this in Japanese all the time. And we do it in English all the time. So, for example, if we say in English <code>It's sunny, isn't it!</code> In Japanese we might say <code>(zeroが)晴れだね!</code>
+Và chúng ta làm điều này trong tiếng Nhật mọi lúc. Và chúng ta cũng làm điều đó trong tiếng Anh mọi lúc. Vì vậy, ví dụ, nếu chúng ta nói trong tiếng Anh <code>It's sunny, isn't it! (Trời nắng, phải không!)</code> Trong tiếng Nhật chúng ta có thể nói <code>(zeroが)晴れだね!</code>
 
 ![](../media/image1143.webp)
 
-They mean the same thing. In English we have to say <code>It is sunny</code> — we could say <code>Sunny, isn't it?</code> but that's only because we're leaving out the <code>it</code>. And we've still got it at the end, because we don't ever say <code>Sunny, isn't!</code>
+Chúng có cùng ý nghĩa. Trong tiếng Anh chúng ta phải nói <code>It is sunny</code> — chúng ta có thể nói <code>Sunny, isn't it?</code> nhưng đó chỉ là vì chúng ta đang bỏ đi chữ <code>it</code>. Và chúng ta vẫn còn nó ở cuối câu, bởi vì chúng ta không bao giờ nói <code>Sunny, isn't!</code>
 
-We say <code>Sunny, isn't it!</code> which must be short for <code>It is sunny, isn't it!</code> In Japanese we say <code>晴れ...</code> (which means <code>sunny</code> or <code>clear</code> in the sense of clear skies): <code>晴れだね!</code> Now, <code>だ</code> is the copula.
+Chúng ta nói <code>Sunny, isn't it!</code> chắc chắn là viết tắt của <code>It is sunny, isn't it!</code> Trong tiếng Nhật chúng ta nói <code>晴れ...</code> (có nghĩa là <code>nắng</code> hoặc <code>trong trẻo</code> theo nghĩa bầu trời trong xanh): <code>晴れだね!</code> Bây giờ, <code>だ</code> là hệ từ (copula).
 
-It's got to be connecting that <code>晴れ晴れ</code> to something else, which is our zero-particle. What is it connecting it to? Well, in this case we don't know.
+Nó phải đang kết nối chữ <code>晴れ晴れ</code> đó với một cái gì đó khác, đó là trợ từ zero của chúng ta. Nó đang kết nối với cái gì? Chà, trong trường hợp này chúng ta không biết.
 
-It could be the day — <code>The day is sunny</code>. It could be the weather — <code>The weather is sunny</code>. It could be the sky — <code>The sky is clear</code> — because <code>晴れ</code> can mean <code>clear</code> as well in that sky sense.
+Nó có thể là một ngày — <code>The day is sunny (Ngày hôm nay nắng)</code>. Nó có thể là thời tiết — <code>The weather is sunny (Thời tiết nắng)</code>. Nó có thể là bầu trời — <code>The sky is clear (Bầu trời quang đãng)</code> — bởi vì <code>晴れ</code> cũng có thể có nghĩa là <code>trong trẻo (clear)</code> theo nghĩa bầu trời đó.
 
-It doesn't matter. It doesn't matter in Japanese and it doesn't matter in English what we mean by <code>it</code> when we say <code>If I'd brought an umbrella, it would have been good</code> or <code>It is sunny</code>.
+Điều đó không quan trọng. Trong tiếng Nhật không quan trọng và trong tiếng Anh cũng không quan trọng việc chúng ta ngụ ý gì qua chữ <code>nó (it)</code> khi chúng ta nói <code>Nếu tôi mang theo ô thì điều đó đã tốt rồi (If I'd brought an umbrella, it would have been good)</code> hoặc <code>Trời nắng (It is sunny)</code>.
 
-But we can't do without it. We can't do without it in Japanese and we can't do without it in English. Because in both Japanese and English we have to have an A-car and a B-engine.
+Nhưng chúng ta không thể làm gì mà không có nó. Chúng ta không thể thiếu nó trong tiếng Nhật và chúng ta không thể thiếu nó trong tiếng Anh. Bởi vì trong cả tiếng Nhật và tiếng Anh, chúng ta phải có một Xe A và một Động cơ B.
 
-A subject and a predicate. A 主語/しゅご and a 述語/じゅつご. In English we always have to be able to see both of them.
+Một chủ ngữ và một vị ngữ. Một 主語/しゅご và một 述語/じゅつご. Trong tiếng Anh, chúng ta luôn phải có khả năng nhìn thấy cả hai.
 
-In Japanese we don't need to see the first one. We do need to see the second one. But the first one is always there, and if we don't understand that we're going to have great difficulty picking out the core sentence, especially as things get more complex.
+Trong tiếng Nhật chúng ta không cần phải nhìn thấy cái đầu tiên. Chúng ta thực sự cần nhìn thấy cái thứ hai. Nhưng cái đầu tiên luôn ở đó, và nếu chúng ta không hiểu điều đó, chúng ta sẽ gặp khó khăn lớn trong việc nhận ra câu cốt lõi, đặc biệt là khi mọi thứ trở nên phức tạp hơn.
 
 ![](../media/image884.webp)
 
-So, to get directly to the question, how do we find the end of a logical clause? Now, the main logical clause, the head clause of the sentence, is always the last one, and we can find the end very easily because the end of the logical clause is the end of the sentence.
+Vì vậy, đi thẳng vào câu hỏi, làm thế nào để chúng ta tìm thấy phần cuối của một mệnh đề logic? Bây giờ, mệnh đề logic chính, mệnh đề chính của câu, luôn là mệnh đề cuối cùng, và chúng ta có thể tìm thấy phần cuối rất dễ dàng vì phần cuối của mệnh đề logic cũng là phần cuối của câu.
 
-In Japanese, a sentence has to end with an engine, that is to say, an adjective, a copula (<code>だ</code> or <code>です</code>) or a verb. So the last engine in the sentence will be the end of the head clause of the sentence, the main final clause of the sentence, always.
+Trong tiếng Nhật, một câu phải kết thúc bằng một động cơ, nghĩa là, một tính từ, một hệ từ (<code>だ</code> hoặc <code>です</code>) hoặc một động từ. Vì vậy, động cơ cuối cùng trong câu sẽ là phần cuối của mệnh đề chính của câu, mệnh đề cuối cùng chính của câu, luôn luôn như vậy.
 
 ![](../media/image3.webp)
 
-It will be the last thing in the sentence apart, perhaps, from one or two sentence-ender particles like <code>よ</code> or <code>ね</code> or <code>よね</code>. We call them sentence-ender particles, but in a way it might be more accurate to call them particles that come after the end of the sentence.
+Nó sẽ là thứ cuối cùng trong câu, có lẽ chỉ ngoại trừ một hoặc hai trợ từ kết thúc câu như <code>よ</code> hoặc <code>ね</code> hoặc <code>よね</code>. Chúng ta gọi chúng là các trợ từ kết thúc câu, nhưng theo một cách nào đó, có thể chính xác hơn khi gọi chúng là các trợ từ xuất hiện sau khi kết thúc câu.
 
-The final engine is the end of the logical sentence and the ender particles are just a little add-on that we put on right after the end of the sentence. So it's very easy to find the end of the last logical clause in a sentence or the end of the entire logical clause if there is only one logical clause in the sentence.
+Động cơ cuối cùng là kết thúc của câu logic và các trợ từ kết thúc chỉ là một phần bổ sung nhỏ mà chúng ta đặt vào ngay sau khi kết thúc câu. Vì vậy, rất dễ để tìm thấy phần cuối của mệnh đề logic cuối cùng trong một câu hoặc phần cuối của toàn bộ mệnh đề logic nếu chỉ có một mệnh đề logic trong câu.
 
-The more difficult question — but it's not really all that difficult, but the question that can cause problems is the question of how do we find or how do we eliminate the possibility of a compound sentence?
+Câu hỏi khó hơn — nhưng nó thực sự không quá khó, nhưng câu hỏi có thể gây rắc rối là làm thế nào để chúng ta tìm ra hoặc làm thế nào để chúng ta loại bỏ khả năng của một câu ghép?
 
 ![](../media/image282.webp)
 
-How do we know there are no other logical clauses in the sentence or, if there are, how do we find them? And the answer to that is again very simple and straightforward.
+Làm sao chúng ta biết không có mệnh đề logic nào khác trong câu hoặc, nếu có, làm sao chúng ta tìm thấy chúng? Và câu trả lời cho câu hỏi đó lại rất đơn giản và dễ hiểu.
 
-A logical clause will always end with an engine: a verb, a noun followed by a copula (<code>だ</code> — it won't be followed by <code>な</code>, because if the copula <code>だ</code> has become <code>な</code> then it must be a modifier, it can't be a logical clause in itself) — a noun with the copula <code>だ</code>, or an adjective. And if it is a clause before the final clause in a compound sentence, it's going to end with a connector.
+Một mệnh đề logic sẽ luôn kết thúc bằng một động cơ: một động từ, một danh từ theo sau là một hệ từ (<code>だ</code> — nó sẽ không được theo sau bởi <code>な</code>, bởi vì nếu hệ từ <code>だ</code> đã trở thành <code>な</code> thì nó phải là một từ bổ nghĩa, bản thân nó không thể là một mệnh đề logic) — một danh từ với hệ từ <code>だ</code>, hoặc một tính từ. Và nếu đó là một mệnh đề trước mệnh đề cuối cùng trong một câu ghép, nó sẽ kết thúc bằng một từ nối (connector).
 
-It has to, because it has to connect to the next logical clause. So, now what we're going to do is look at the sort of complex sentence that can confuse people and we're going to look at how we tackle that sentence.
+Nó bắt buộc phải như vậy, bởi vì nó phải kết nối với mệnh đề logic tiếp theo. Vì vậy, bây giờ những gì chúng ta sẽ làm là xem xét loại câu phức tạp có thể làm mọi người nhầm lẫn và chúng ta sẽ xem xét cách chúng ta giải quyết câu đó.
 
-So the sentence is "私がさくらに話した日本語ができる留学生は *(zeroが)* 五輪金メダルを獲得した女性と結婚した" Now, as you can see, that looks pretty complicated. How do we go about it, how do we go about analyzing it?
+Vì vậy, câu đó là "私がさくらに話した日本語ができる留学生は *(zeroが)* 五輪金メダルを獲得した女性と結婚した" Bây giờ, như bạn có thể thấy, nó trông khá phức tạp. Chúng ta thực hiện điều đó như thế nào, chúng ta phân tích nó như thế nào?
 
-Jay Rubin-先生, for whom I have great respect, suggests that if we're really stuck we should work backwards through a Japanese sentence. And there's some sense in that, because Japanese sentences do in a certain way and up to a certain point run in reverse order from an English sentence.
+Jay Rubin-sensei, người mà tôi rất kính trọng, gợi ý rằng nếu chúng ta thực sự bế tắc, chúng ta nên xử lý ngược một câu tiếng Nhật. Và điều đó cũng có lý, bởi vì các câu tiếng Nhật, theo một cách nào đó và ở một mức độ nào đó, chạy theo thứ tự ngược lại với một câu tiếng Anh.
 
-However, we can only do that with written sentences. We can't do it with spoken sentences because people won't speak backwards for us most of the time. However, one thing I do think is useful if you're feeling particularly stuck with a sentence is to make sure you've got the head verb or the head copula or the head adjective, whatever is the head of the sentence, in your mind.
+Tuy nhiên, chúng ta chỉ có thể làm điều đó với các câu viết. Chúng ta không thể làm điều đó với các câu nói vì hầu hết thời gian mọi người sẽ không nói ngược lại cho chúng ta. Tuy nhiên, một điều tôi nghĩ là hữu ích nếu bạn cảm thấy đặc biệt bế tắc với một câu là đảm bảo rằng bạn đã nắm được động từ chính hoặc hệ từ chính hoặc tính từ chính, bất kể cái gì là phần chính của câu, trong tâm trí bạn.
 
-So if we just take a peek at that first so we know where we're going to. And the head of this sentence is very straightforward, isn't it? It's <code>結婚した</code>.
+Vì vậy, nếu chúng ta chỉ xem xét điều đó trước để chúng ta biết chúng ta sẽ đi đến đâu. Và phần chính của câu này rất đơn giản, phải không? Đó là <code>結婚した</code>.
 
-The head verb is simply <code>した</code> — <code>did</code> — but that's making a する-verb with <code>結婚</code>; so, <code>結婚した</code>. What the sentence is telling us is that somebody got married.
+Động từ chính chỉ đơn giản là <code>した</code> — <code>đã làm (did)</code> — nhưng nó đang tạo thành một động từ する với <code>結婚</code>; vì vậy, <code>結婚した</code>. Những gì câu này đang nói với chúng ta là có người đã kết hôn.
 
-All right. But now let's do what I think we should do so long as we can, and most of the time we really can — Start from the beginning. All right.
+Được rồi. Nhưng bây giờ chúng ta hãy làm những gì tôi nghĩ chúng ta nên làm miễn là chúng ta có thể, và hầu hết thời gian chúng ta thực sự có thể — Bắt đầu từ đầu. Được rồi.
 
-So, the first part of the sentence, the first clause: <code>私がさくらに話した</code> Now, that could be a complete logical sentence in itself, couldn't it? <code>I spoke to Sakura.</code>
+Vì vậy, phần đầu tiên của câu, mệnh đề đầu tiên: <code>私がさくらに話した</code> Bây giờ, bản thân nó có thể là một câu logic hoàn chỉnh, phải không? <code>Tôi đã nói chuyện với Sakura. (I spoke to Sakura)</code>
 
-Or it could be <code>I told Sakura</code> in which case it couldn't be complete in itself, could it? Because I would have to tell her something. Now, which is it in this case?
+Hoặc nó có thể là <code>Tôi đã bảo Sakura (I told Sakura)</code> trong trường hợp đó bản thân nó không thể trọn vẹn được, đúng không? Bởi vì tôi sẽ phải nói với cô ấy một điều gì đó. Bây giờ, trong trường hợp này nó là cái nào?
 
-Well, we know that's it's not a complete logical clause, <code>I spoke to Sakura.</code> Why not? Because it's not ending in any kind of conjunction, is it?
+Chà, chúng ta biết rằng đó không phải là một mệnh đề logic hoàn chỉnh, <code>Tôi đã nói chuyện với Sakura.</code> Tại sao không? Bởi vì nó không kết thúc bằng bất kỳ loại liên từ nào cả, phải không?
 
-It's followed directly by a noun, <code>日本語</code>. There's no conjunctive word, there's no て-form and it's not the い-stem of <code>話す</code>. So we know that this is in fact a modifier for something else.
+Nó được theo sau trực tiếp bởi một danh từ, <code>日本語</code>. Không có từ nối nào, không có dạng て nào và nó không phải là gốc い của <code>話す</code>. Vì vậy, chúng ta biết rằng đây thực tế là một từ bổ nghĩa cho một cái gì đó khác.
 
-So, what have we got next? <code>日本語ができる</code> — now, that means <code>Japanese is possible</code>. <code>日本語ができる</code> could be a complete sentence in itself, couldn't it?
+Vậy, tiếp theo chúng ta có gì? <code>日本語ができる</code> — bây giờ, điều đó có nghĩa là <code>tiếng Nhật là có thể (Japanese is possible)</code>. <code>日本語ができる</code> bản thân nó có thể là một câu hoàn chỉnh, phải không?
 
-<code>To me, Japanese is possible.</code> The <code>to me</code> would be implicit, but that's fine, we do that all the time. But we know it isn't because it doesn't end in any kind of conjunction.
+<code>Đối với tôi, tiếng Nhật là có thể.</code> Phần <code>đối với tôi (to me)</code> sẽ được ngầm hiểu, nhưng điều đó vẫn ổn, chúng ta làm điều đó mọi lúc. Nhưng chúng ta biết là không phải vậy bởi vì nó không kết thúc bằng bất kỳ loại liên từ nào.
 
-So this also can't be a complete logical clause within a compound sentence. It must be a modifier for something. And what we expect it to be a modifier for would be a person: a person to whom Japanese is possible.
+Vì vậy, điều này cũng không thể là một mệnh đề logic hoàn chỉnh trong một câu ghép. Nó phải là một từ bổ nghĩa cho một cái gì đó. Và những gì chúng ta mong đợi nó bổ nghĩa sẽ là một người: một người mà đối với họ tiếng Nhật là có thể.
 
-And that's exactly what we get next: <code>留学生</code>. <code>留学生</code> is an exchange student, usually from a foreign country. So, <code>日本語ができる</code> modifies <code>留学生</code> — <code>an exchange student to whom Japanese is possible / a Japanese-speaking exchange student.</code>
+Và đó chính xác là những gì chúng ta nhận được tiếp theo: <code>留学生</code>. <code>留学生</code> là một du học sinh trao đổi, thường đến từ nước ngoài. Vì vậy, <code>日本語ができる</code> bổ nghĩa cho <code>留学生</code> — <code>một du học sinh mà đối với người đó tiếng Nhật là có thể / một du học sinh nói được tiếng Nhật.</code>
 
-And <code>私がさくらに話した</code> is modifying all that. <code>The Japanese-speaking exchange student who I told Sakura about</code> And then that's followed by は.
+Và <code>私がさくらに話した</code> đang bổ nghĩa cho tất cả những điều đó. <code>Du học sinh biết nói tiếng Nhật mà tôi đã nói với Sakura</code> Và sau đó nó được theo sau bởi は.
 
-Now, <code>留学生は</code> indicates it's very likely, isn't it, that this is going to be the topic of the sentence and that the topic of the sentence is going to be the doer, the A-car of the sentence. But let's continue the sentence and see if that seems to be the case.
+Bây giờ, <code>留学生は</code> chỉ ra rằng rất có khả năng, đúng không, rằng đây sẽ là chủ đề của câu và chủ đề của câu sẽ là người thực hiện hành động, Xe A của câu. Nhưng hãy tiếp tục câu và xem liệu có vẻ đúng như vậy không.
 
-We now have <code>五輪金メダル</code> and that means an Olympic gold medal. <code>五輪</code> means <code>five circles</code>.
+Bây giờ chúng ta có <code>五輪金メダル</code> và điều đó có nghĩa là một huy chương vàng Olympic. <code>五輪</code> có nghĩa là <code>năm vòng tròn</code>.
 
-<code>五輪金</code> — which is gold — <code>メダル</code> — an Olympic gold medal — <code>を獲得した</code>. Now that is not, that can't be a logical sentence because it's not a logical sentence, is it?
+<code>五輪金</code> — nghĩa là vàng — <code>メダル</code> — một huy chương vàng Olympic — <code>を獲得した</code>. Bây giờ điều đó không phải là, nó không thể là một câu logic bởi vì nó không phải là một câu logic, phải không?
 
-It's not a logical sentence without a doer, and there's no doer implied here. But we have the doer right afterwards, don't we?
+Nó không phải là một câu logic nếu không có người thực hiện hành động, và không có người thực hiện hành động nào được ngụ ý ở đây. Nhưng chúng ta có người thực hiện hành động ngay sau đó, phải không?
 
 ![](../media/image183.webp)
 
-So we know that we have here a modifier for another noun, not a logical sentence in itself: <code>五輪金メダルを獲得した女性</code>. So now we have another modified noun: <code>A woman who won an Olympic gold medal</code>.
+Vì vậy, chúng ta biết rằng ở đây chúng ta có một từ bổ nghĩa cho một danh từ khác, bản thân nó không phải là một câu logic: <code>五輪金メダルを獲得した女性</code>. Vì vậy, bây giờ chúng ta có một danh từ được bổ nghĩa khác: <code>Một người phụ nữ đã giành được huy chương vàng Olympic</code>.
 
-And now we've come to the head-verb of the sentence: <code>-と結婚した</code>.
+Và bây giờ chúng ta đã đến động từ chính của câu: <code>-と結婚した</code>.
 ::: info
-about that と*
+về chữ と đó*
 ![](../media/image812.webp)
 :::
 
 
-So we were right. *(about the は presumption)* We have the A-car, which is the exchange student *(in the sentence it would be more specifically the zeroが after <code>留学生は</code> which implies said exchange student, that is the invisible subject, so subject is also the topic here)* who can speak Japanese that I told Sakura about married *(B car - predicate)* a woman who won an Olympic gold medal.
+Vì vậy, chúng ta đã đúng. *(về giả định は)* Chúng ta có Xe A, là du học sinh *(trong câu, cụ thể hơn sẽ là zeroが sau <code>留学生は</code> ngụ ý du học sinh nói trên, tức là chủ ngữ tàng hình, vì vậy chủ ngữ cũng là chủ đề ở đây)* người có thể nói tiếng Nhật mà tôi đã nói với Sakura đã kết hôn với *(Xe B - vị ngữ)* một người phụ nữ giành huy chương vàng Olympic.
 
 ![](../media/image330.webp)
 
-And as you see, we've got various actions going on in this sentence; we've got various things that could, under different circumstances, form logical clauses of their own, but none of them actually can. We now know that this is not a compound sentence.
+Và như bạn thấy, chúng ta có nhiều hành động khác nhau đang diễn ra trong câu này; chúng ta có nhiều thứ khác nhau có thể, trong những hoàn cảnh khác nhau, tạo thành các mệnh đề logic của riêng chúng, nhưng thực tế thì không cái nào có thể cả. Bây giờ chúng ta biết rằng đây không phải là một câu ghép.
 
-This is one rather complex sentence with a single A-car *(zeroが = 留学生)* and a single B-engine *(結婚した).* Where a logical clause ends is either at the end of the sentence or before a conjunction.
+Đây là một câu khá phức tạp với một Xe A duy nhất *(zeroが = 留学生)* và một Động cơ B duy nhất *(結婚した).* Nơi một mệnh đề logic kết thúc là ở cuối câu hoặc trước một liên từ.
 
-And if you can do that, you can analyze just about any Japanese sentence, however complicated it looks, and see what's going on in the sentence.
+Và nếu bạn có thể làm được điều đó, bạn có thể phân tích gần như bất kỳ câu tiếng Nhật nào, dù nó có vẻ phức tạp đến đâu, và xem điều gì đang diễn ra trong câu.
 
 ::: tip
-if still confusing, I recommend you read the comments under that **[video](https://www.youtube.com/watch?v=uot49Z85wNs&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=38&ab_channel=OrganicJapanesewithCureDolly).** With lots of input, the brain should sort it out eventually, but it needs work and time. Dolly just prepares for that dive. At this point, you might want to slowly start with input if you have not yet, together with Dolly grammar. Once finished with the transcript, refer to it when you encounter something confusing or want to review, but comprehensible input/<code>immersion</code> is the key **([as Dolly herself advocated](https://learnjapaneseonline.info/2015/07/01/japanese-immersion-why-massive-input-is-necessary/))**. This way, you will be ready to apply stuff in Lessons 45-48 right away.
-But it is up to you, it would be good to get the tools etc. ready now at least & start after 45-ish.
-As mentioned on the first page, I have written a long document - [**LINK HERE**](https://docs.google.com/document/d/1kxYa53a2UjnpMZyHdU-YNuctkq6wHT3cJ00Z5poj2hY/edit#) - containing my most favourite sites that have hundreds of extremely useful and varied resources, tips, guides, tools and everything needed for deep Japanese immersion that you may find somewhat helpful.
+nếu vẫn còn khó hiểu, tôi khuyên bạn nên đọc các bình luận dưới **[video](https://www.youtube.com/watch?v=uot49Z85wNs&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=38&ab_channel=OrganicJapanesewithCureDolly)** đó. Với rất nhiều input, cuối cùng bộ não sẽ phân loại được nó, nhưng nó cần có công sức và thời gian. Dolly chỉ chuẩn bị cho việc lặn sâu đó. Tại thời điểm này, bạn có thể muốn từ từ bắt đầu với input nếu bạn chưa làm thế, cùng với ngữ pháp của Dolly. Khi học xong bản ghi chú này, hãy tham khảo nó khi bạn gặp điều gì đó khó hiểu hoặc muốn ôn lại, nhưng input/<code>immersion (đắm chìm)</code> có thể hiểu được là chìa khóa **([như chính Dolly đã ủng hộ](https://learnjapaneseonline.info/2015/07/01/japanese-immersion-why-massive-input-is-necessary/))**. Bằng cách này, bạn sẽ sẵn sàng áp dụng mọi thứ trong các Bài học 45-48 ngay lập tức.
+Nhưng tùy thuộc vào bạn, tốt nhất là chuẩn bị sẵn sàng các công cụ v.v. ngay bây giờ hoặc ít nhất là bắt đầu sau bài 45.
+Như đã đề cập trên trang đầu tiên, tôi đã viết một tài liệu dài - [**LINK Ở ĐÂY**](https://docs.google.com/document/d/1kxYa53a2UjnpMZyHdU-YNuctkq6wHT3cJ00Z5poj2hY/edit#) - chứa các trang web yêu thích nhất của tôi có hàng trăm tài nguyên, mẹo, hướng dẫn, công cụ cực kỳ hữu ích và đa dạng và mọi thứ cần thiết để đắm chìm sâu vào tiếng Nhật mà bạn có thể thấy phần nào hữu ích.
 :::

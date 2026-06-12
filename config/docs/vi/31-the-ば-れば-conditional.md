@@ -1,68 +1,68 @@
-# **31. The ば / れば Conditional**
+# **31. Câu điều kiện ば / れば**
 
 [**Lesson 31: The BA conditional. What it really means and how to use it easily.**](https://www.youtube.com/watch?v=O81EPCsPUpw&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=33&pp=iAQB)
 
 こんにちは。
 
-Today we're going to talk about the conditional ば/れば. Last week we looked at the と conditional and we saw that its particular characteristic was its exclusiveness, its implication that only one outcome is possible. In many cases we can use any or most of the conditionals without changing the meaning to any great extent, but each conditional has its own particular qualities.
+Hôm nay chúng ta sẽ nói về câu điều kiện ば/れば. Tuần trước chúng ta đã xem xét câu điều kiện と và chúng ta thấy rằng đặc điểm riêng của nó là tính loại trừ, ngụ ý của nó rằng chỉ có một kết quả là có thể xảy ra. Trong nhiều trường hợp, chúng ta có thể sử dụng bất kỳ hoặc hầu hết các câu điều kiện mà không làm thay đổi ý nghĩa ở mức độ lớn nào, nhưng mỗi câu điều kiện đều có những đặc điểm riêng của nó.
 
-So today we're going to look at the special quality of ば/れば and some of the things it does and why it does them. First of all, what is ば/れば? ば/れば is a helper which we put on to the え-stem of a verb.
+Vì vậy, hôm nay chúng ta sẽ xem xét đặc điểm riêng của ば/れば, một số điều mà nó làm được và tại sao nó lại làm như vậy. Trước hết, ば/れば là gì? ば/れば là một từ phụ trợ (helper) mà chúng ta gắn vào gốc え (え-stem) của một động từ.
 
 ![](../media/image409.webp)
 
-The え-stem is one of the lesser used stems but ば/れば is one of the things that uses it. So, for godan verbs we put it on to the え-stem and for ichidan verbs, as always, we simply put it on to ... we simply take off the -る and add the ichidan form, -れば.
+Gốc え là một trong những gốc ít được sử dụng hơn nhưng ば/れば là một trong những thứ sử dụng nó. Vì vậy, đối với động từ godan (nhóm 1), chúng ta đặt nó vào gốc え và đối với động từ ichidan (nhóm 2), như thường lệ, chúng ta chỉ cần đặt nó vào... chúng ta chỉ cần bỏ -る đi và thêm dạng ichidan, -れば.
 
-For the two irregular verbs, in this case they work exactly like regular ichidan verbs. So <code>来る</code> becomes <code>来れば</code> and <code>する</code> becomes <code>すれば</code>. Actually, <code>来る</code> and <code>する</code>, I would say, are in fact ichidan verbs, but they're strong ichidan verbs.
+Đối với hai động từ bất quy tắc (nhóm 3), trong trường hợp này chúng hoạt động hoàn toàn giống như các động từ ichidan thông thường. Vì vậy <code>来る</code> trở thành <code>来れば</code> và <code>する</code> trở thành <code>すれば</code>. Trên thực tế, <code>来る</code> và <code>する</code>, tôi có thể nói, thực ra là các động từ ichidan, nhưng chúng là những động từ ichidan mạnh.
 
-A strong verb is a verb that can change its vowel sound. In English we have <code>come</code> and <code>came</code>, <code>eat</code> and <code>ate</code>. And <code>来る</code> and <code>する</code> in some cases change their vowel sound. <code>来る</code> in the negative becomes <code>こない</code>, <code>する</code> becomes <code>しない</code>.
+Động từ mạnh là động từ có thể thay đổi âm nguyên âm của nó. Trong tiếng Anh chúng ta có <code>come</code> và <code>came</code>, <code>eat</code> và <code>ate</code>. Và <code>来る</code> và <code>する</code> trong một số trường hợp thay đổi âm nguyên âm của chúng. <code>来る</code> ở dạng phủ định trở thành <code>こない</code>, <code>する</code> trở thành <code>しない</code>.
 
-But in this case they don't change their vowel sound at all, so that's very simple — they just work like the ichidan verbs that they fundamentally are. For adjectives, we take off the -い and use the helper -ければ.
+Nhưng trong trường hợp này chúng hoàn toàn không thay đổi âm nguyên âm của mình, vì vậy điều đó rất đơn giản — chúng chỉ hoạt động giống như các động từ ichidan mà về cơ bản thì chúng là thế. Đối với tính từ, chúng ta bỏ -い đi và sử dụng từ phụ trợ -ければ.
 
 ![](../media/image739.webp)
 
-You might notice that when we do anything with an adjective other than simply take off the -い and add whatever we're going to add, the specific adjectival modifications all come from the か-き-く-け-こ row. So, the negative of an adjective is -くない (<code>面白い</code> --> <code>面白くない</code>); the past is -かった (<code>面白い</code> --> <code>面白かった</code>); and **the ば conditional is -ければ** (<code>面白い</code> --> <code>面白ければ</code>).
+Bạn có thể nhận thấy rằng khi chúng ta làm bất cứ điều gì với một tính từ khác ngoài việc chỉ đơn giản là bỏ -い và thêm bất cứ thứ gì chúng ta định thêm, thì các dạng sửa đổi tính từ cụ thể đều bắt nguồn từ hàng か-き-く-け-こ. Vì vậy, dạng phủ định của một tính từ là -くない (<code>面白い</code> --> <code>面白くない</code>); dạng quá khứ là -かった (<code>面白い</code> --> <code>面白かった</code>); và **câu điều kiện ば là -ければ** (<code>面白い</code> --> <code>面白ければ</code>).
 
-So in a way we could say that if adjectives had an え-stem, it would be -け. And that's what we use in that case. So what's the special characteristic of ば/れば?
+Vì vậy theo một cách nào đó, chúng ta có thể nói rằng nếu tính từ có gốc え, nó sẽ là -け. Và đó là những gì chúng ta sử dụng trong trường hợp đó. Vậy đặc điểm đặc biệt của ば/れば là gì?
 
--と, as we know, its special characteristic is its exclusiveness. The special characteristic of ば/れば is that it is used for hypotheticals. So it must always mean <code>if</code>. **It can't ever mean <code>when</code>**, because we never know for sure if the condition will take place and consequently if we use it about something that happened in the past it has to be something that didn't happen because if it did happen we wouldn't be dealing with a hypothesis, we'd be dealing with a fact.
+-と, như chúng ta đã biết, đặc điểm đặc biệt của nó là tính độc quyền (exclusiveness). Đặc điểm đặc biệt của ば/れば là nó được sử dụng cho các giả thuyết. Vì vậy, nó phải luôn có nghĩa là <code>nếu (if)</code>. **Nó không bao giờ có thể có nghĩa là <code>khi (when)</code>**, bởi vì chúng ta không bao giờ biết chắc chắn liệu điều kiện có xảy ra hay không và do đó nếu chúng ta sử dụng nó về một việc gì đó đã xảy ra trong quá khứ thì nó phải là một việc gì đó đã không xảy ra bởi vì nếu nó thực sự xảy ra thì chúng ta sẽ không đối phó với một giả thuyết, chúng ta sẽ đối phó với một sự thật.
 
-Now this hypothetical nature of ば/れば allows it to be used in many common and very important Japanese expressions. For example, <code>どうすればいい</code>. What this literally means is <code>how, if I act, will be good</code>.
+Bây giờ bản chất giả thuyết này của ば/れば cho phép nó được sử dụng trong nhiều cách diễn đạt tiếng Nhật phổ biến và rất quan trọng. Ví dụ, <code>どうすればいい</code>. Theo nghĩa đen, điều này có nghĩa là <code>làm thế nào, nếu tôi hành động, sẽ là tốt</code>.
 
-And I'll just note here that while <code>する</code> is generally translated as <code>do</code>, in many cases the best way to render it into English is as <code>act</code>. So, for example, if we say <code>静かにする</code>, we're not saying <code>do quietly</code>, we're saying <code>act quietly</code>.
+Và tôi sẽ chỉ lưu ý ở đây rằng trong khi <code>する</code> thường được dịch là <code>làm (do)</code>, trong nhiều trường hợp, cách tốt nhất để dịch nó sang tiếng Anh là <code>hành động (act)</code>. Vì vậy, ví dụ, nếu chúng ta nói <code>静かにする</code>, chúng ta không nói <code>làm một cách yên tĩnh (do quietly)</code>, chúng ta đang nói <code>hành động một cách yên tĩnh (act quietly)</code>.
 
-So, <code>どうすればいい</code> — <code>how, if I act, will be good</code>. And in English what we'd normally say is <code>What should I do?</code> But in Japanese we don't say that.
+Vì vậy, <code>どうすればいい</code> — <code>tôi làm thế nào thì sẽ tốt (how, if I act, will be good)</code>. Và trong tiếng Anh, những gì chúng ta thường nói là <code>Tôi nên làm gì? (What should I do?)</code> Nhưng trong tiếng Nhật chúng ta không nói như vậy.
 
-As we'll see, this is partly because the concept of <code>should</code> isn't quite the same in Japanese, and ば/れば is often used to solve the problem. We'll come back to that in a moment.
+Như chúng ta sẽ thấy, một phần là do khái niệm <code>nên (should)</code> không hoàn toàn giống nhau trong tiếng Nhật, và ば/れば thường được sử dụng để giải quyết vấn đề. Chúng ta sẽ quay lại vấn đề đó ngay trong chốc lát.
 
-Another common use of ば/れば is in <code>すればよかった</code>. For example, <code>かさを持ってくればよかった</code>. In English we would say <code>I should have brought an umbrella</code>.
+Một cách sử dụng phổ biến khác của ば/れば là trong <code>すればよかった</code>. Ví dụ, <code>かさを持ってくればよかった</code>. Trong tiếng Anh chúng ta sẽ nói <code>Đáng lẽ tôi nên mang theo ô (I should have brought an umbrella)</code>.
 
-What we're actually saying here is <code>If I had brought an umbrella, it would have been good</code>. <code>持ってくる</code>, as I've explained elsewhere, we join the word <code>carry</code> and the word <code>come</code> to mean <code>bring</code> (<code>carry-to-here</code>) and we notice that <code>よかった</code> throws it into the past tense.
+Những gì chúng ta thực sự đang nói ở đây là <code>Nếu tôi mang theo ô thì đã tốt rồi (If I had brought an umbrella, it would have been good)</code>. <code>持ってくる</code>, như tôi đã giải thích ở những bài khác, chúng ta ghép từ <code>mang/cầm (carry)</code> và từ <code>đến (come)</code> để có nghĩa là <code>mang đến (bring)</code> (<code>carry-to-here</code>) và chúng ta nhận thấy rằng <code>よかった</code> đưa nó vào thì quá khứ.
 
-As you know, in Japanese, we mark the past tense at the end of a logical clause. So even though it may be true that if it's raining right now, if I had brought an umbrella it would have been good and it still would be good, we throw the whole thing into the past tense with that final <code>よかった</code>.
+Như bạn đã biết, trong tiếng Nhật, chúng ta đánh dấu thì quá khứ ở cuối một mệnh đề logic. Vì vậy, mặc dù có thể đúng là nếu trời đang mưa ngay lúc này, nếu tôi mang theo một chiếc ô thì đã tốt và nó vẫn sẽ tốt, chúng ta đưa toàn bộ sự việc vào thì quá khứ với chữ <code>よかった</code> ở cuối cùng đó.
 
-<code>かさを持ってくればよかった</code> — <code>I should have brought an umbrella / I wish I had brought an umbrella.</code> Now notice that in both these cases, <code>どうすればいい</code> / <code>かさを持ってくればよかった</code>, we are using this <code>if it were done, it would be good</code> to mean <code>should</code>.
+<code>かさを持ってくればよかった</code> — <code>Đáng lẽ tôi nên mang theo ô / Giá như tôi mang theo ô.</code> Bây giờ lưu ý rằng trong cả hai trường hợp này, <code>どうすればいい</code> / <code>かさを持ってくればよかった</code>, chúng ta đang sử dụng cấu trúc <code>nếu nó được thực hiện thì sẽ tốt (if it were done, it would be good)</code> với ý nghĩa <code>nên (should)</code>.
 
-And this happens again in an even commoner Japanese construction. <code>勉強しなければいけない</code> — <code>If I don't study, it won't go / it won't do.</code> Now what we are actually saying here is <code>I must study</code>.
+Và điều này lại xảy ra trong một cấu trúc tiếng Nhật thậm chí còn phổ biến hơn. <code>勉強しなければいけない</code> — <code>Nếu tôi không học, sẽ không thể tiến lên được / sẽ không ổn.</code> Bây giờ những gì chúng ta thực sự đang nói ở đây là <code>Tôi phải học (I must study)</code>.
 
 ![](../media/image1010.webp)
 
-There actually isn't a word for <code>must</code> in Japanese, so we always construct it this way. We say <code>If I don't... (whatever it is)</code> and then we can say <code>it won't be good / it will be bad / it'll be a disaster...</code>
+Thực sự không có từ nào cho <code>phải (must)</code> trong tiếng Nhật, vì vậy chúng ta luôn xây dựng nó theo cách này. Chúng ta nói <code>Nếu tôi không... (bất kể đó là gì)</code> và sau đó chúng ta có thể nói <code>sẽ không tốt đâu / sẽ tệ đấy / sẽ là thảm họa...</code>
 
-Whatever we say, some negative construction then follows this, and what we're saying is <code>I must go / I've got to go / I've got to do this / I've got to do that</code>, and this is because we don't have that construction <code>got to</code> and we don't have <code>must</code> in Japanese. It always has this rather lengthy "If I don't do, it won't be good / if I don't do, it won't do / If I don't do, it's bad" — <code>無ければ / なければダメ</code>.
+Bất kể chúng ta nói gì, một cấu trúc phủ định nào đó sau đó sẽ theo sau cấu trúc này, và những gì chúng ta đang nói là <code>Tôi phải đi / Tôi phải đi / Tôi phải làm cái này / Tôi phải làm cái kia</code>, và điều này là do chúng ta không có cấu trúc <code>phải (got to)</code> đó và chúng ta không có từ <code>phải (must)</code> trong tiếng Nhật. Nó luôn có cách diễn đạt khá dài dòng này "Nếu tôi không làm thì sẽ không tốt / nếu tôi không làm thì sẽ không xong / Nếu tôi không làm thì sẽ tệ" — <code>無ければ / なければダメ</code>.
 
-And because it is indeed a very long-winded way of saying something common like <code>must</code> or <code>got to</code>, it often gets cut down in casual speech to just <code>しなければ</code> or even <code>しなきゃ</code>, which is short for <code>しなければ</code>, without adding the negative ending, because that's just implied. However, even in very casual speech it's often said in full, and I think this is to emphasize the nature of the <code>must</code>.
+Và bởi vì đó thực sự là một cách nói rất dài dòng cho một điều gì đó phổ biến như <code>phải (must)</code> hay <code>phải (got to)</code>, nó thường được rút gọn lại trong cách nói suồng sã chỉ còn <code>しなければ</code> hay thậm chí là <code>しなきゃ</code>, dạng rút gọn của <code>しなければ</code>, mà không cần thêm phần đuôi phủ định, bởi vì điều đó chỉ được ngụ ý. Tuy nhiên, ngay cả trong lời nói rất thông tục, nó thường được nói đầy đủ, và tôi nghĩ điều này là để nhấn mạnh bản chất của chữ <code>phải (must)</code>.
 
-<code>なぜ行かなければいけない?</code> — <code>Why have I got to come/go?</code>
+<code>なぜ行かなければいけない?</code> — <code>Tại sao tôi lại phải đi/đến?</code>
 ::: info
-if it helps, more literally something like <code>Why if (I) don’t go, (it’s) bad/it won’t do?</code>
-Or as Dolly-先生 says in the comments for 行かなければいけない + what that いけない means:
+nếu nó giúp ích, theo nghĩa đen thì đại loại như <code>Tại sao nếu (tôi) không đi thì lại tệ/lại không được?</code>
+Hoặc như Dolly-sensei nói trong phần bình luận cho 行かなければいけない + いけない đó có nghĩa là gì:
 :::
 *![](../media/image1040.webp)**
 **![](../media/image1003.webp)
 
-In cases like that, where we're putting stress on it as opposed to cases where we're just saying casually <code>行かなきゃ</code> — <code>I've got to go</code>.
+Trong những trường hợp như thế, chúng ta đặt trọng âm (nhấn mạnh) vào nó, trái ngược với những trường hợp chúng ta chỉ nói một cách suồng sã <code>行かなきゃ</code> — <code>Tôi phải đi đây</code>.
 
 ::: info
-literally maybe <code>If (I) don’t go…</code>, negative afterwards is just implied/unvoiced
+theo nghĩa đen có lẽ là <code>Nếu (tôi) không đi…</code>, phần phủ định phía sau chỉ là được ngụ ý/không được nói ra
 :::
-So this is the special characteristic of ば/れば, that it's dealing with hypotheticals.
+Vậy đây là đặc điểm riêng của ば/れば, rằng nó đối phó với các giả thuyết.

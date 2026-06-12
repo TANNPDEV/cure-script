@@ -1,55 +1,55 @@
-# **32. The たら, なら Conditionals**
+# **32. Câu điều kiện たら, なら**
 
 [**Lesson 32: Conditionals made clear! Tara, nara - how they really work**](https://www.youtube.com/watch?v=fzNo53_b8W0&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=34&pp=iAQB)
 
 こんにちは。
 
-Today we are going to complete our mini-series on conditionals with the conditionals たら and なら.
+Hôm nay chúng ta sẽ hoàn thành mini-series về câu điều kiện với các câu điều kiện たら và なら.
 
-## たら Conditional
+## Câu điều kiện たら
 
-The -たら conditional is particularly easy to form because all we do is form a verb or an adjective into its -た/-だ past form, and we know how to do that. Once we've done that, all we do is add -ら and we have the conditional ready-made.
+Câu điều kiện -たら đặc biệt dễ hình thành vì tất cả những gì chúng ta làm là biến một động từ hoặc một tính từ thành dạng quá khứ -た/-だ của nó, và chúng ta biết cách làm điều đó. Khi chúng ta đã làm xong việc đó, tất cả những gì chúng ta làm là thêm -ら và chúng ta đã có sẵn câu điều kiện.
 
-It's no coincidence that -たら and -だら are formed on the past, because this is the only conditional that can be used about past events. Now, of course, when we are using it about past events it's not really a conditional, because we are no longer saying <code>if...</code>, we are saying <code>when...</code>
+Không phải ngẫu nhiên mà -たら và -だら được hình thành ở thì quá khứ, bởi vì đây là câu điều kiện duy nhất có thể được sử dụng về các sự kiện trong quá khứ. Bây giờ, tất nhiên, khi chúng ta sử dụng nó về các sự kiện trong quá khứ thì nó không thực sự là một câu điều kiện, bởi vì chúng ta không còn nói <code>nếu... (if...)</code>, chúng ta đang nói <code>khi... (when...)</code>
 
-We know that the condition was fulfilled because it's already happened. But what it does is shows that the event that happened in the past was unexpected or surprising, and this is because rather than using one of the more regular means of showing that one event followed another, such as the -て form or -から, we are using an if-type conditional.
+Chúng ta biết rằng điều kiện đã được hoàn thành bởi vì nó đã xảy ra rồi. Nhưng những gì nó làm là cho thấy rằng sự kiện xảy ra trong quá khứ là bất ngờ hoặc đáng ngạc nhiên, và điều này là do thay vì sử dụng một trong những phương tiện thông thường hơn để chỉ ra rằng một sự kiện theo sau một sự kiện khác, chẳng hạn như dạng -て hoặc -から, chúng ta đang sử dụng câu điều kiện kiểu chữ nếu (if-type).
 
-So we are stressing the fact that what did happen might well not have happened and indeed it might have been more in line with expectation if it hadn't happened. So, if we say <code>家に帰ったらさくらがいた,</code> we're saying <code>When I returned to the house, Sakura was there,</code> and obviously we're very surprised to find that Sakura is there.
+Vì vậy chúng ta đang nhấn mạnh thực tế rằng những gì đã xảy ra rất có thể đã không xảy ra và thực tế là nó có thể phù hợp với kỳ vọng hơn nếu nó không xảy ra. Vì vậy, nếu chúng ta nói <code>家に帰ったらさくらがいた,</code> chúng ta đang nói <code>Khi tôi trở về nhà, Sakura đã ở đó,</code> và rõ ràng chúng ta rất ngạc nhiên khi thấy Sakura ở đó.
 
-She didn't even have a key; she must have gotten in through the window. Sakura does that sort of thing sometimes, you know. Now, of course, we can also use it as a true conditional about future events, and when we do that, it tends to throw stress on what will happen if the condition is fulfilled, as opposed to -ば/れば, which throws more stress on the question of whether or not the condition will be fulfilled or even the fact that it wasn't fulfilled.
+Cô ấy thậm chí không có chìa khóa; cô ấy chắc hẳn đã chui vào qua cửa sổ. Sakura thỉnh thoảng hay làm những việc như thế, bạn biết đấy. Bây giờ, tất nhiên, chúng ta cũng có thể sử dụng nó như một câu điều kiện thực sự về các sự kiện trong tương lai, và khi chúng ta làm điều đó, nó có xu hướng đặt trọng tâm vào những gì sẽ xảy ra nếu điều kiện được đáp ứng, trái ngược với -ば/れば, vốn dĩ đặt nhiều trọng tâm hơn vào câu hỏi liệu điều kiện có được đáp ứng hay không hoặc thậm chí là sự thật rằng nó đã không được đáp ứng.
 
-And this is perhaps natural, because just as in its past form -たら can mean more-or-less <code>when</code> something takes place as much as <code>if</code> it takes place, it certainly can be used for things that we don't know whether they will be fulfilled or not. Most of the conditionals are interchangeable in many cases, but if we're talking about a condition which we're fully expecting to be fulfilled, we're really saying more <code>when</code> than <code>if</code>, we're most likely to use -たら.
+Và điều này có lẽ là tự nhiên, bởi vì cũng giống như ở dạng quá khứ của nó, -たら có thể có nghĩa ít nhiều là <code>khi (when)</code> điều gì đó diễn ra nhiều như thể là <code>nếu (if)</code> nó diễn ra, nó chắc chắn có thể được sử dụng cho những việc mà chúng ta không biết liệu chúng có được thực hiện hay không. Hầu hết các câu điều kiện có thể thay thế cho nhau trong nhiều trường hợp, nhưng nếu chúng ta đang nói về một điều kiện mà chúng ta hoàn toàn mong đợi sẽ được đáp ứng, chúng ta thực sự đang nói thiên về ý <code>khi (when)</code> hơn là <code>nếu (if)</code>, chúng ta có nhiều khả năng sử dụng -たら nhất.
 
-Another note on the -たら and -ば/-れば is that we sometimes use the forms -ったら and -ってば with a small っ before them **to indicate exasperation**. So we might say <code>さくらったら</code> or <code>さくらってば</code>.
+Một lưu ý khác về -たら và -ば/-れば là đôi khi chúng ta sử dụng các dạng -ったら và -ってば với một chữ っ nhỏ trước chúng **để biểu thị sự bực tức/chán nản**. Vì vậy chúng ta có thể nói <code>さくらったら</code> hoặc <code>さくらってば</code>.
 
-And what this literally means is the construction *(of which they are abbreviations)* of <code>さくらと言ったら</code> or <code>さくらと言えば</code>, in other words <code>When you speak of Sakura...</code> And this is a bit like saying, <code>Oh, you</code> or <code>When you speak of Sakura, it's always something like this, isn't it?</code>
+Và theo nghĩa đen, điều này có nghĩa là cấu trúc *(mà chúng là chữ viết tắt của)* <code>さくらと言ったら</code> hoặc <code>さくらと言えば</code>, nói cách khác là <code>Khi bạn nhắc đến Sakura... (When you speak of Sakura...)</code> Và điều này hơi giống như nói, <code>Ôi, bạn (Oh, you)</code> hoặc <code>Khi bạn nhắc đến Sakura, lúc nào cũng như thế này phải không?</code>
 
-It's not flattering, it is critical, but it's not very strongly so, especially in the case of -ったら. It can be quite humorous or joking or a kind of friendly exasperation. In my experience, -ってば is more likely to express real exasperation, and it can be put on to the end of other things than just a person's name.
+Nó không mang tính tâng bốc, nó mang tính phê phán, nhưng nó không mạnh mẽ lắm, đặc biệt là trong trường hợp của -ったら. Nó có thể khá hài hước hoặc đùa giỡn hoặc một kiểu bực tức nhưng thân thiện. Theo kinh nghiệm của tôi, -ってば có nhiều khả năng diễn tả sự bực bội thực sự hơn, và nó có thể được đặt ở cuối những thứ khác chứ không chỉ là tên của một người.
 
-For example, we might say <code>もう言ったってば</code>, which is <code>I've already said that, haven't I?</code>
+Ví dụ, chúng ta có thể nói <code>もう言ったってば</code>, đó là <code>Tôi đã nói thế rồi mà, phải không?</code>
 
 ::: info
-This may be a useful note about たら, so I will leave it here.
+Đây có thể là một lưu ý hữu ích về たら, vì vậy tôi sẽ để nó ở đây.
 
 ![](../media/image1063.webp)
 :::
 
-## なら Conditional
+## Câu điều kiện なら
 
-Now, -なら is really the easiest of all conditionals to form, because all we ever do is put -なら after what we say and that turns it into a conditional. We can put it after nouns and we can put it after complete logical clauses.
+Bây giờ, -なら thực sự là câu điều kiện dễ hình thành nhất trong tất cả các câu điều kiện, bởi vì tất cả những gì chúng ta làm là đặt -なら sau những gì chúng ta nói và điều đó biến nó thành một câu điều kiện. Chúng ta có thể đặt nó sau danh từ và chúng ta có thể đặt nó sau các mệnh đề logic hoàn chỉnh.
 
-It's very comfortable after nouns and we don't need to use a copula, probably because the -な of -なら has its roots in the copula itself. There are ways of grafting the other conditionals onto nouns, but I haven't mentioned those, because I think it would just be unnecessary complication at this stage.
+Nó rất thoải mái khi đứng sau danh từ và chúng ta không cần sử dụng hệ từ (copula - だ/です), có lẽ bởi vì chữ -な của -なら có gốc rễ từ chính bản thân hệ từ. Có nhiều cách để ghép các câu điều kiện khác vào danh từ, nhưng tôi chưa đề cập đến những cách đó, bởi vì tôi nghĩ điều đó sẽ chỉ là một sự phức tạp không cần thiết ở giai đoạn này.
 
-Generally speaking, all other things being equal, we're most likely to use -なら with nouns. Now, a characteristic of -なら is that more than the others it can be used of present and future conditions that really aren't in doubt at all.
+Nói chung, nếu các điều kiện khác đều như nhau, chúng ta có khả năng sử dụng -なら nhiều nhất với danh từ. Bây giờ, một đặc điểm của -なら là hơn những câu điều kiện khác, nó có thể được sử dụng cho các điều kiện ở hiện tại và tương lai vốn thực sự không có gì nghi ngờ cả.
 
-So, for example, if Sakura is worried that something may not be possible to her, we might say <code>さくらなら, できる</code> and that means <code>If it's Sakura, it will be possible</code>. Now, of course, we know it's Sakura, we're talking to Sakura, so what we're really saying is <code>Since it's Sakura, it will be possible</code> and we're using it to reassure Sakura that we have confidence in her.
+Vì vậy, ví dụ, nếu Sakura lo lắng rằng có điều gì đó không thể đối với cô ấy, chúng ta có thể nói <code>さくらなら, できる</code> và điều đó có nghĩa là <code>Nếu là Sakura, sẽ có thể làm được</code>. Bây giờ, tất nhiên, chúng ta biết đó là Sakura, chúng ta đang nói chuyện với Sakura, vì vậy những gì chúng ta thực sự đang nói là <code>Vì là Sakura, nên sẽ có thể làm được</code> và chúng ta đang sử dụng nó để trấn an Sakura rằng chúng ta tin tưởng vào cô ấy.
 
-You might ask the way to the station; you might say, <code>駅はどこですか</code> and someone might reply, <code>駅なら, あそこです</code> and that's saying <code>If it's the station you're asking for, it's over there.</code> Now, of course, there isn't any real doubt that it is the station you're asking for, so it's more like <code>Since it's the station you're asking for, it's over there.</code>
+Bạn có thể hỏi đường đến nhà ga; bạn có thể nói, <code>駅はどこですか</code> và ai đó có thể trả lời, <code>駅なら, あそこです</code> và điều đó có nghĩa là <code>Nếu là nhà ga mà bạn đang hỏi, thì nó ở đằng kia.</code> Bây giờ, tất nhiên, không có chút nghi ngờ thực sự nào về việc đó là nhà ga mà bạn đang hỏi, vì vậy nó giống như <code>Vì là nhà ga mà bạn đang hỏi, nên nó ở đằng kia.</code> hơn.
 
-In both these cases there's no doubt. In the case of Sakura, we're expressing confidence in her as a person — if it was someone else, it might not be possible, but if it's Sakura, since it's Sakura, it will be possible. And with the station, we're really just confirming that it's the station we're talking about.
+Trong cả hai trường hợp này đều không có sự nghi ngờ. Trong trường hợp của Sakura, chúng chúng ta đang bày tỏ sự tin tưởng vào cô ấy như một con người — nếu đó là người khác, điều đó có thể không thể, nhưng nếu là Sakura, vì là Sakura, điều đó sẽ có thể. Và với nhà ga, chúng ta thực sự chỉ đang xác nhận rằng đó là nhà ga mà chúng ta đang nói đến.
 
-And, as I say, the conditionals are very often interchangeable, but knowing the special characteristics of each one helps us to understand exactly what's going on and which one we might choose ourselves.
+Và, như tôi nói, các câu điều kiện rất thường xuyên có thể thay thế cho nhau, nhưng việc biết các đặc điểm riêng của từng loại giúp chúng ta hiểu chính xác những gì đang diễn ra và loại nào chúng ta nên tự mình chọn.
 
 ::: info
-There were no notable pictures in the video - as for their lacking in this lesson here.
+Không có hình ảnh đáng chú ý nào trong video - cũng như sự thiếu vắng của chúng trong bài học này ở đây.
 :::
